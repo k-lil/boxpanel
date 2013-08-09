@@ -18,8 +18,8 @@ td,
 input,
 textarea,
 select							{ font-family:arial; font-size:12px; color:#000; }
-a								{ color:#000; outline:none; text-decoration:none; }
-a:hover							{ color:#343434; text-decoration:underline; }
+a								{ color:#515E70; outline:none; text-decoration:none; }
+a:hover							{ color:#B55D5C; text-decoration:underline; }
 a.hot							{ color:#EE7E2B !important; }
 a:hover.hot						{ color:#F3AB76 !important; }
 p, h1, h2, h3, h4, h5			{ margin:0; padding:0; font-weight:normal; }
@@ -36,7 +36,7 @@ input[type="button"],button 	{ margin:10px;}
 #top				{ width:950px; height:70px; }
 #top .logo			{ overflow: hidden; position:absolute; left:5px; top:10px; width:335px; height:74px; /*background:url(../img/logo-company.png) no-repeat;*/ padding: 5px 0 0 5px; }
 #top .choose		{ float:right; padding:17px 0 0 20px; }
-#top .choose span	{ display:block; padding-bottom:5px; color:#3A3A3A; }
+#top .choose span	{ display:block; padding-bottom:5px; color:#FFFFFF; }
 #top .choose select	{ width:120px; }
 
 #top-menu			{ border-collapse:collapse; width:960px; background:url(../img/top-menu.gif) repeat-x; margin:0 auto; }
