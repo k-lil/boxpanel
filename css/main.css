@@ -155,7 +155,7 @@ height:30px;
 .list .item .icon	{ margin-left:auto; margin-right:auto; }
 .list .item a		{ display:block; margin:0 0 0 0px; text-decoration: none; }
 .list .item a span	{ color:#FFFFFF; }
-.list .item a:hover span	{ text-decoration: none; color: #2B6893; }
+.list .item a:hover span	{ text-decoration: none; color: #B55D5C; }
 .list .item a img	{ display:block; }
 .list .item .label	{ display:block; width:100%; text-align:center; margin-top:3px; }
 .list .sep			{ float:left; width:100%; font-size:0; height:0; }
