@@ -258,7 +258,7 @@ ul.nav-left li a.icon-7	{ background-image:url(../img/icon-small-7.png); backgro
 
 .block				{ width:auto; padding:10px;}
 .block table		{ border-collapse:collapse; width:100%; margin-bottom:10px; }
-.block td			{ padding:7px 15px 5px 15px; font-size:12px; color:#2A2A2A; }
+.block td			{ padding:7px 15px 5px 15px; font-size:12px; color:#FFFFFF; }
 .block td.even		{ padding-right:15px; color:#747474; }
 span.active		{ background:url(../img/active.png) 0 center no-repeat; display:block; height:15px; padding:0 0 0 21px; color:#a0bf4d; font-weight:bold; }
 span.active.not, span.inactive	{ background:url(../img/inactive.png) 0 center no-repeat; display:block; height:15px; padding:0 0 0 21px; color:#4e4e4e; font-weight:bold;}
