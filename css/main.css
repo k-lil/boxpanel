@@ -102,7 +102,7 @@ border-style: none solid solid;
 border-width: medium 1px 1px;
 }
 
-#side-1				{ float:left; width:639px; padding:10px 0 50px 11px; }
+#side-1				{ float:left; width:639px; padding-top:10px; }
 #mid-inner #side-1	{ width:250px; padding-left:0; }
 
 .list{ 
@@ -1083,7 +1083,8 @@ box-shadow: 0 1px 0 #363B3E;
 color: #D5D5D5;
 font-family: Arial,Helvetica,sans-serif;
 font-size: 11px;
-width:80%; 
+width:100%;
+height: 30px;
 display: block; 
 margin: 0 auto;
 padding-right: 9%; 
@@ -1244,7 +1245,7 @@ float: left;
 height: 21px;
 overflow: hidden;
 padding: 5px;
-margin: 0 10px;
+margin: 0 auto;
 width: 925px;
 }
 .breadCrumb ul {
