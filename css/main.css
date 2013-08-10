@@ -402,9 +402,9 @@ td.password					{ text-align:center; color:#636363; }
 td.password div				{ background:#fff url(../img/password.gif) 1px 1px no-repeat; border:1px solid #7F9DB9; height:7px; font-size:0; padding:1px; margin-bottom:5px; }
 
 table.type-5					{ width:100%; }
-table.type-5 td					{ padding:7px 20px 8px 20px; border-top:1px solid #D3D3D3; text-align:center;}
+table.type-5 td					{ padding:7px 20px 8px 20px; text-align:center;}
 table.type-5 td.right   	{ text-align:right;}
-table.type-5 tr.head td			{ background:#F0F0F0; color:#3B6086; text-align:center; padding:7px 5px 8px 5px; }
+table.type-5 tr.head td			{ color:#3B6086; text-align:center; padding:7px 5px 8px 5px; }
 table.type-5 tr.even td		{ background:none repeat scroll 0 0 #F5F5F5; }
 table.type-5 tr.bot td			{ text-align:right; }
 table.type-5 tr.bot td input	{ /*margin-right:-10px;*/ }
