@@ -331,7 +331,7 @@ width: auto;
 .cont h2.head em	{ display:none; }
 .cont h3			{ color:#3B6086; font-size:12px; font-weight:bold; padding-left:10px; margin-bottom:10px; }
 .cont h4			{ font-size:13px; font-weight:bold; color:#3B6086; }
-.cont table			{ border-collapse:collapse; margin-bottom:15px; width:100%; }
+.cont table			{ border-collapse:collapse; width:100%; }
 .cont a				{ color:#0066CC; text-decoration:underline; }
 .cont a:hover		{ color:#4A95E0; }
 .cont input			{ 
