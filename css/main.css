@@ -1,4 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Cuprum);
+@import url(http://api.boxpanel.ml/css/font-awesome.min.css);
+
 html, body						{ height:100% !important; min-height:100%; }
 body, form						{ padding:0; margin:0; }
 body { 
