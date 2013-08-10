@@ -165,56 +165,55 @@ height:30px;
 .list .item a .icon { display: block; width: 32px; height: 32px;}
 .list .item span.icon { display: block; width: 32px; height: 32px;}
 
-.list .item span.icon-0		{ background:url(../img/icon-0.png) 0px 0px no-repeat; }
-.list .item span.icon-1		{ background:url(../img/icon-1.png) 0px 0px no-repeat; }
-.list .item span.icon-2		{ background:url(../img/icon-2.png) 0px 0px no-repeat; }
-.list .item span.icon-3		{ background:url(../img/icon-3.png) 0px 0px no-repeat; }
-.list .item span.icon-4		{ background:url(../img/icon-4.png) 0px 0px no-repeat; }
-.list .item span.icon-5		{ background:url(../img/icon-5.png) 0px 0px no-repeat; }
-.list .item span.icon-6		{ background:url(../img/icon-6.png) 0px 0px no-repeat; }
-.list .item span.icon-7		{ background:url(../img/icon-9.png) 0px 0px no-repeat; }
-.list .item span.icon-8		{ background:url(../img/icon-8.png) 0px 0px no-repeat; }
-.list .item span.icon-9		{ background:url(../img/icon-7.png) 0px 0px no-repeat; }
-.list .item span.icon-10	{ background:url(../img/icon-10.png) 0px 0px no-repeat; }
-.list .item span.icon-11	{ background:url(../img/icon-11.png) 0px 0px no-repeat; }
-.list .item span.icon-12	{ background:url(../img/icon-12.png) 0px 0px no-repeat; }
-.list .item span.icon-13	{ background:url(../img/icon-13.png) 0px 0px no-repeat; }
-.list .item span.icon-14	{ background:url(../img/icon-14.png) 0px 0px no-repeat; }
-.list .item span.icon-15	{ background:url(../img/icon-15.png) 0px 0px no-repeat; }
-.list .item span.icon-16	{ background:url(../img/icon-16.png) 0px 0px no-repeat; }
-.list .item span.icon-17	{ background:url(../img/icon-17.png) 0px 0px no-repeat; }
-.list .item span.icon-18	{ background:url(../img/icon-18.png) 0px 0px no-repeat; }
-.list .item span.icon-19	{ background:url(../img/icon-19.png) 0px 0px no-repeat; }
-.list .item span.icon-20	{ background:url(../img/icon-20.png) 0px 0px no-repeat; }
-.list .item span.icon-21	{ background:url(../img/icon-21.png) 0px 0px no-repeat; }
-.list .item span.icon-22	{ background:url(../img/icon-22.png) 0px 0px no-repeat; }
-.list .item span.icon-23	{ background:url(../img/icon-23.png) 0px 0px no-repeat; }
-.list .item span.icon-24	{ background:url(../img/icon-24.png) 0px 0px no-repeat; }
-.list .item span.icon-25	{ background:url(../img/icon-25.png) 0px 0px no-repeat; }
-.list .item span.icon-26	{ background:url(../img/icon-26.png) 0px 0px no-repeat; }
-.list .item span.icon-27	{ background:url(../img/icon-27.png) 0px 0px no-repeat; }
-.list .item span.icon-28	{ background:url(http://msdhosting.tk/cpanel/icons/pma.png) 0px 0px no-repeat; }
-.list .item span.icon-29	{ background:url(../img/icon-29.png) 0px 0px no-repeat; }
-.list .item span.icon-30	{ background:url(../img/icon-30.png) 0px 0px no-repeat; }
-.list .item span.icon-31	{ background:url(../img/icon-31.png) 0px 0px no-repeat; }
-.list .item span.icon-32	{ background:url(../img/icon-32.png) 0px 0px no-repeat; }
-.list .item span.icon-33	{ background:url(../img/icon-33.png) 0px 0px no-repeat; }
-.list .item span.icon-34	{ background:url(../img/icon-34.png) 0px 0px no-repeat; }
-.list .item span.icon-35	{ background:url(../img/icon-35.png) 0px 0px no-repeat; }
-.list .item span.icon-36	{ background:url(../img/icon-36.png) 0px 0px no-repeat; }
-.list .item span.icon-37	{ background:url(../img/icon-37.png) 0px 0px no-repeat; }
-.list .item span.icon-38	{ background:url(../img/icon-38.png) 0px 0px no-repeat; }
-.list .item span.icon-39	{ background:url(../img/icon-39.png) 0px 0px no-repeat; }
-.list .item span.icon-40	{ background:url(../img/icon-40.png) 0px 0px no-repeat; }
-
-.list .item span.icon-41	{ background:url(../img/icon-28.png) 0px 0px no-repeat; }
-.list .item span.icon-54	{ background:url(http://msdhosting.tk/cpanel/icons/1pr.png) 0px 0px no-repeat; }
-.list .item span.icon-55	{ background:url(http://msdhosting.tk/cpanel/icons/zyro.png) 0px 0px no-repeat; }
-
+.list .item span.icon-0	{ background:url(../img/icons/icon-0.png) 0px 0px no-repeat; }
+.list .item span.icon-1	{ background:url(../img/icons/icon-1.png) 0px 0px no-repeat; }
+.list .item span.icon-2	{ background:url(../img/icons/icon-2.png) 0px 0px no-repeat; }
+.list .item span.icon-3	{ background:url(../img/icons/icon-3.png) 0px 0px no-repeat; }
+.list .item span.icon-4	{ background:url(../img/icons/icon-4.png) 0px 0px no-repeat; }
+.list .item span.icon-5	{ background:url(../img/icons/icon-5.png) 0px 0px no-repeat; }
+.list .item span.icon-6	{ background:url(../img/icons/icon-6.png) 0px 0px no-repeat; }
+.list .item span.icon-7	{ background:url(../img/icons/icon-9.png) 0px 0px no-repeat; }
+.list .item span.icon-8	{ background:url(../img/icons/icon-8.png) 0px 0px no-repeat; }
+.list .item span.icon-9	{ background:url(../img/icons/icon-7.png) 0px 0px no-repeat; }
+.list .item span.icon-10	{ background:url(../img/icons/icon-10.png) 0px 0px no-repeat; }
+.list .item span.icon-11	{ background:url(../img/icons/icon-11.png) 0px 0px no-repeat; }
+.list .item span.icon-12	{ background:url(../img/icons/icon-12.png) 0px 0px no-repeat; }
+.list .item span.icon-13	{ background:url(../img/icons/icon-13.png) 0px 0px no-repeat; }
+.list .item span.icon-14	{ background:url(../img/icons/icon-14.png) 0px 0px no-repeat; }
+.list .item span.icon-15	{ background:url(../img/icons/icon-15.png) 0px 0px no-repeat; }
+.list .item span.icon-16	{ background:url(../img/icons/icon-16.png) 0px 0px no-repeat; }
+.list .item span.icon-17	{ background:url(../img/icons/icon-17.png) 0px 0px no-repeat; }
+.list .item span.icon-18	{ background:url(../img/icons/icon-18.png) 0px 0px no-repeat; }
+.list .item span.icon-19	{ background:url(../img/icons/icon-19.png) 0px 0px no-repeat; }
+.list .item span.icon-20	{ background:url(../img/icons/icon-20.png) 0px 0px no-repeat; }
+.list .item span.icon-21	{ background:url(../img/icons/icon-21.png) 0px 0px no-repeat; }
+.list .item span.icon-22	{ background:url(../img/icons/icon-22.png) 0px 0px no-repeat; }
+.list .item span.icon-23	{ background:url(../img/icons/icon-23.png) 0px 0px no-repeat; }
+.list .item span.icon-24	{ background:url(../img/icons/icon-24.png) 0px 0px no-repeat; }
+.list .item span.icon-25	{ background:url(../img/icons/icon-25.png) 0px 0px no-repeat; }
+.list .item span.icon-26	{ background:url(../img/icons/icon-26.png) 0px 0px no-repeat; }
+.list .item span.icon-27	{ background:url(../img/icons/icon-27.png) 0px 0px no-repeat; }
+.list .item span.icon-28	{ background:url(../img/icons/icon-28.png) 0px 0px no-repeat; }
+.list .item span.icon-29	{ background:url(../img/icons/icon-29.png) 0px 0px no-repeat; }
+.list .item span.icon-30	{ background:url(../img/icons/icon-30.png) 0px 0px no-repeat; }
+.list .item span.icon-31	{ background:url(../img/icons/icon-31.png) 0px 0px no-repeat; }
+.list .item span.icon-32	{ background:url(../img/icons/icon-32.png) 0px 0px no-repeat; }
+.list .item span.icon-33	{ background:url(../img/icons/icon-33.png) 0px 0px no-repeat; }
+.list .item span.icon-34	{ background:url(../img/icons/icon-34.png) 0px 0px no-repeat; }
+.list .item span.icon-35	{ background:url(../img/icons/icon-35.png) 0px 0px no-repeat; }
+.list .item span.icon-36	{ background:url(../img/icons/icon-36.png) 0px 0px no-repeat; }
+.list .item span.icon-37	{ background:url(../img/icons/icon-37.png) 0px 0px no-repeat; }
+.list .item span.icon-38	{ background:url(../img/icons/icon-38.png) 0px 0px no-repeat; }
+.list .item span.icon-39	{ background:url(../img/icons/icon-39.png) 0px 0px no-repeat; }
+.list .item span.icon-40	{ background:url(../img/icons/icon-40.png) 0px 0px no-repeat; }
+.list .item span.icon-41	{ background:url(../img/icons/icon-41.png) 0px 0px no-repeat; }
+.list .item span.icon-54	{ background:url(../img/icons/icon-54.png) 0px 0px no-repeat; }
+.list .item span.icon-55	{ background:url(../img/icons/icon-55.png) 0px 0px no-repeat; }
 
 
-.list .item span.icon-cron-output	{ background:url(../img/icon-29.png) 0px 0px no-repeat; }
-.list .item span.icon-mail-service-control { background:url(../img/icon-mail-service-control.png) 0px 0px no-repeat; }
+
+.list .item span.icon-cron-output	{ background:url(../img/icons/icon-29.png) 0px 0px no-repeat; }
+.list .item span.icon-mail-service-control { background:url(../img/icons/icon-mail-service-control.png) 0px 0px no-repeat; }
 
 #nav-left			{ background: url("../img/leftNavBg.png") repeat-x scroll 0 0 #EFEFEF; list-style-type:none; padding:0; margin:0; }
 #nav-left li		{ padding:13px 0 13px 45px; margin:0; font-weight:bold; font-size:14px; }
@@ -224,14 +223,14 @@ height:30px;
 #nav-left a.s		{ font-weight:bold; }
 #nav-left a.s:hover	{ text-decoration:none; }
 
-#nav-left li.icon-0	{ background:url(../img/icon-small-0.png) 15px center no-repeat; }
-#nav-left li.icon-1	{ background:url(../img/icon-small-1.png) 15px center no-repeat; }
-#nav-left li.icon-2	{ background:url(../img/icon-small-2.png) 15px center no-repeat; }
-#nav-left li.icon-3	{ background:url(../img/icon-small-3.png) 15px center no-repeat; }
-#nav-left li.icon-4	{ background:url(../img/icon-small-4.png) 15px center no-repeat; }
-#nav-left li.icon-5	{ background:url(../img/icon-small-5.png) 15px center no-repeat; }
-#nav-left li.icon-6	{ background:url(../img/icon-small-6.png) 15px center no-repeat; }
-#nav-left li.icon-7	{ background:url(../img/icon-small-7.png) 15px center no-repeat; }
+#nav-left li.icon-0	{ background:url(../img/icons/icon-small-0.png) 15px center no-repeat; }
+#nav-left li.icon-1	{ background:url(../img/icons/icon-small-1.png) 15px center no-repeat; }
+#nav-left li.icon-2	{ background:url(../img/icons/icon-small-2.png) 15px center no-repeat; }
+#nav-left li.icon-3	{ background:url(../img/icons/icon-small-3.png) 15px center no-repeat; }
+#nav-left li.icon-4	{ background:url(../img/icons/icon-small-4.png) 15px center no-repeat; }
+#nav-left li.icon-5	{ background:url(../img/icons/icon-small-5.png) 15px center no-repeat; }
+#nav-left li.icon-6	{ background:url(../img/icons/icon-small-6.png) 15px center no-repeat; }
+#nav-left li.icon-7	{ background:url(../img/icons/icon-small-7.png) 15px center no-repeat; }
 
 ul.nav-left { background: none repeat scroll 0 0 #FAFAFA; list-style-type:none; padding:0; margin:0; border: 1px solid #D5D5D5;}
 ul.nav-left li  { padding: 0; margin:0; font-weight:bold; font-size:14px; }
@@ -242,14 +241,14 @@ ul.nav-left a   { color:#3B6086; }
 ul.nav-left li.active > a { color: #000}
 
 
-ul.nav-left li a.icon-0	{ background-image:url(../img/icon-small-0.png); background-position: 2% center; border-bottom: 1px solid #D5D5D5;}
-ul.nav-left li a.icon-1	{ background-image:url(../img/icon-small-1.png); background-position: 2% center; border-bottom: 1px solid #D5D5D5;}
-ul.nav-left li a.icon-2	{ background-image:url(../img/icon-small-2.png); background-position: 2% center; border-top: 1px solid #D5D5D5; border-bottom: 1px solid #D5D5D5;}
-ul.nav-left li a.icon-3	{ background-image:url(../img/icon-small-3.png); background-position: 2% center; border-top: 1px solid #D5D5D5; border-bottom: 1px solid #D5D5D5;}
-ul.nav-left li a.icon-4	{ background-image:url(../img/icon-small-4.png); background-position: 2% center; border-top: 1px solid #D5D5D5; border-bottom: 1px solid #D5D5D5;}
-ul.nav-left li a.icon-5	{ background-image:url(../img/icon-small-5.png); background-position: 2% center; border-top: 1px solid #D5D5D5; border-bottom: 1px solid #D5D5D5;}
-ul.nav-left li a.icon-6	{ background-image:url(../img/icon-small-6.png); background-position: 2% center; border-top: 1px solid #D5D5D5; border-bottom: 1px solid #D5D5D5;}
-ul.nav-left li a.icon-7	{ background-image:url(../img/icon-small-7.png); background-position: 2% center; border-top: 1px solid #D5D5D5; border-bottom: 1px solid #D5D5D5;}
+ul.nav-left li a.icon-0	{ background-image:url(../img/icons/icon-small-0.png); background-position: 2% center; border-bottom: 1px solid #D5D5D5;}
+ul.nav-left li a.icon-1	{ background-image:url(../img/icons/icon-small-1.png); background-position: 2% center; border-bottom: 1px solid #D5D5D5;}
+ul.nav-left li a.icon-2	{ background-image:url(../img/icons/icon-small-2.png); background-position: 2% center; border-top: 1px solid #D5D5D5; border-bottom: 1px solid #D5D5D5;}
+ul.nav-left li a.icon-3	{ background-image:url(../img/icons/icon-small-3.png); background-position: 2% center; border-top: 1px solid #D5D5D5; border-bottom: 1px solid #D5D5D5;}
+ul.nav-left li a.icon-4	{ background-image:url(../img/icons/icon-small-4.png); background-position: 2% center; border-top: 1px solid #D5D5D5; border-bottom: 1px solid #D5D5D5;}
+ul.nav-left li a.icon-5	{ background-image:url(../img/icons/icon-small-5.png); background-position: 2% center; border-top: 1px solid #D5D5D5; border-bottom: 1px solid #D5D5D5;}
+ul.nav-left li a.icon-6	{ background-image:url(../img/icons/icon-small-6.png); background-position: 2% center; border-top: 1px solid #D5D5D5; border-bottom: 1px solid #D5D5D5;}
+ul.nav-left li a.icon-7	{ background-image:url(../img/icons/icon-small-7.png); background-position: 2% center; border-top: 1px solid #D5D5D5; border-bottom: 1px solid #D5D5D5;}
 
 #side-2				{ float:left; width:309px; padding:0; }
 #mid-inner #side-2	{ width:710px; }
