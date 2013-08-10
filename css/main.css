@@ -1024,13 +1024,13 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b4e391', end
 background-size:108px 7px;
 }
 #diskUsageProgressBar {
-background: url("../img/ui/progress.png") repeat-x scroll 0 0 transparent;
+background: url("../img/progress.png") repeat-x scroll 0 0 transparent;
 box-shadow: 0 1px 0 #363B3E;
 height: 8px;
 width: 100%;
 }
 #BandwidthProgressBar {
-background: url("../img/ui/progress.png") repeat-x scroll 0 0 transparent;
+background: url("../img/progress.png") repeat-x scroll 0 0 transparent;
 box-shadow: 0 1px 0 #363B3E;
 height: 8px;
 width: 100%;
