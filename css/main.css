@@ -1089,8 +1089,8 @@ margin: 0 auto;
 padding-right: 9%; 
 }
 #clear_findInput {
-float:left; 
-margin: 6px 0px 0px -17px; 
+float: right;
+margin: -17px 3px;
 cursor: pointer; 
 display: none;
 }
