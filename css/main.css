@@ -1,6 +1,4 @@
 @import url(http://fonts.googleapis.com/css?family=Cuprum);
-@import url(http://api.boxpanel.ml/css/font-awesome.min.css);
-
 html, body						{ height:100% !important; min-height:100%; }
 body, form						{ padding:0; margin:0; }
 body { 
@@ -79,6 +77,21 @@ width:120px;
 
 .main-menu, .head	{ font-size:18px; color:#3B6086;}
 .head {
+background: -moz-linear-gradient(center top , #4E5659 0%, #414649 100%) repeat scroll 0 0 transparent;
+border-bottom: 1px solid #24272B;
+border-top: 1px solid #24272B;
+box-shadow: 0 1px 0 rgba(255, 255, 255, 0.15) inset;
+color: #FAFAFA;
+font-family: 'Cuprum',sans-serif;
+font-weight: normal;
+font-size:15px; 
+line-height:32px; 
+text-align:center; 
+width:auto; 
+height:30px; 
+}
+
+.head.icon-5 {
 background: -moz-linear-gradient(center top , #4E5659 0%, #414649 100%) repeat scroll 0 0 transparent;
 border-bottom: 1px solid #24272B;
 border-top: 1px solid #24272B;
