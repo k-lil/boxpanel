@@ -406,7 +406,7 @@ table.type-5					{ width:100%; }
 table.type-5 td					{ padding:7px 20px 8px 20px; text-align:center;}
 table.type-5 td.right   	{ text-align:right;}
 table.type-5 tr.head td			{ color:#3B6086; text-align:center; padding:7px 5px 8px 5px; }
-table.type-5 tr.even td		{ background:none repeat scroll 0 0 #F5F5F5; }
+table.type-5 tr.even td		{ background:url("../img/darkerBg.png") repeat scroll 0 0 transparent; }
 table.type-5 tr.bot td			{ text-align:right; }
 table.type-5 tr.bot td input	{ /*margin-right:-10px;*/ }
 
