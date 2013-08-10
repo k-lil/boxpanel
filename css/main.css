@@ -18,8 +18,8 @@ td,
 input,
 textarea,
 select							{ font-family:arial; font-size:12px; color:#000; }
-a								{ color:#515E70; outline:none; text-decoration:none; }
-a:hover							{ color:#B55D5C; text-decoration:underline; }
+a								{ color:#515E70; outline:none; text-decoration:none; font-weight: bold;}
+a:hover							{ color:#B55D5C; text-decoration:none; font-weight: bold;}
 a.hot							{ color:#EE7E2B !important; }
 a:hover.hot						{ color:#F3AB76 !important; }
 p, h1, h2, h3, h4, h5			{ margin:0; padding:0; font-weight:normal; }
@@ -289,8 +289,8 @@ ul.nav-left li a.icon-7	{ background-image:url(../img/icons/icon-small-7.png); b
 .block table		{ border-collapse:collapse; width:100%; margin-bottom:10px; }
 .block td			{ padding:7px 15px 5px 15px; font-size:12px; color:#FFFFFF; }
 .block td.even		{ padding-right:15px; color:#747474; }
-span.active		{ background:url(../img/active.png) 0 center no-repeat; display:block; height:15px; padding:0 0 0 21px; color:#72C66F; font-weight:bold; }
-span.active.not, span.inactive	{ background:url(../img/inactive.png) 0 center no-repeat; display:block; height:15px; padding:0 0 0 21px; color:#4e4e4e; font-weight:bold;}
+span.active		{ display:block; height:15px; padding:0 0 0 21px; color:#72C66F; font-weight:bold; }
+span.active.not, span.inactive	{display:block; height:15px; padding:0 0 0 21px; color:#B55D5C; font-weight:bold;}
 
 .client-profile { 
 -moz-border-bottom-colors: none;
