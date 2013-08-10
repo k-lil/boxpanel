@@ -1314,6 +1314,7 @@ margin: 0 0 0 10px;
 padding: 0 10px 0 15px;
 }
 .even {
+background: url("../img/darkerBg.png") repeat scroll 0 0 transparent;
 border-bottom: 1px solid #D5D5D5;
 }
 .bot{
