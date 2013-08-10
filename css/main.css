@@ -313,14 +313,13 @@ overflow: hidden;
 .cont h1			{ font-size:18px; color:#3B6086; margin:15px 0 20px 0; }
 .cont h1 span		{  padding-right:10px; }
 .cont h2 { 
-background: url(../img/leftNavBg.png) repeat-x scroll 0 0 #EFEFEF;
-border-bottom: 1px solid #D5D5D5;
-border-top: 1px solid #D5D5D5;
-border-radius: 2px 2px 2px 2px;
-color: #424242;
+background: -moz-linear-gradient(center top , #4E5659 0%, #414649 100%) repeat scroll 0 0 transparent;
+border-bottom: 1px solid #24272B;
+border-top: 1px solid #24272B;
+box-shadow: 0 1px 0 rgba(255, 255, 255, 0.15) inset;
+color: #FAFAFA;
 font-family: 'Cuprum',sans-serif;
-font-size: 15px;
-font-weight: bold;
+font-weight: normal;
 height: 30px;
 line-height: 32px;
 text-align: center;
@@ -349,7 +348,22 @@ width: auto;
 
 ul.errors   { list-style-type: none; color: #E25F53; margin: 0; padding: 0;}
 ul.errors li{ list-style: none; padding: 0px; background: none;}
-.cont-wrap			{ background:#FAFAFA ; margin-bottom: 50px; margin-left:10px; margin-top:10px; border-right: 1px solid #D5D5D5; border-left: 1px solid #D5D5D5; border-bottom: 1px solid #D5D5D5; border-radius: 2px 2px 2px 2px;  padding-bottom: 1%;}
+.cont-wrap{ 
+-moz-border-bottom-colors: none;
+-moz-border-left-colors: none;
+-moz-border-right-colors: none;
+-moz-border-top-colors: none;
+background: url("../img/widgetBg.png") repeat scroll 0 0 transparent;
+border-color: -moz-use-text-color #272C30 #272C30;
+border-image: none;
+border-radius: 2px 2px 2px 2px;
+border-style: none solid solid;
+border-width: medium 1px 1px; 
+margin-bottom: 50px; 
+margin-left:10px; 
+margin-top:10px; 
+padding-bottom: 1%;
+}
 
 table.type-1 td					{ padding:4px 10px 5px 10px; }
 table.type-1 tr.even td		{ background:none; }
