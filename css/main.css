@@ -418,7 +418,7 @@ table.type-5 tr.bot td input	{ /*margin-right:-10px;*/ }
 .cont .host div		{ padding:27px 0 27px 65px; }
 
 table.type-6					{ width:100%; }
-table.type-6 td					{ padding:4px 20px 5px 20px; background:#F5F5F5; line-height:20px; }
+table.type-6 td					{ padding:4px 20px 5px 20px; line-height:20px; }
 table.type-6 tr.top td			{ padding-top:15px; }
 table.type-6 tr.bot td			{ padding-bottom:14px; }
 table.type-6 tfoot td   { text-align: right; }
