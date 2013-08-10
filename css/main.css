@@ -345,6 +345,7 @@ font-family: Arial,Helvetica,sans-serif;
 font-size: 11px;
 font-weight: bold;
 line-height: 12px;
+height: 25px;
 }
 .cont p, .cont td, .cont li, .cont div	{ font-size:13px; }
 .cont p				{ padding: 10px 20px 0px 20px; margin-bottom:10px; line-height:20px; }
