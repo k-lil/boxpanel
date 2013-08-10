@@ -276,7 +276,7 @@ border-width: medium 1px 1px;
 overflow: hidden; 
 }
 .client-profile table		{ border-collapse:collapse; width:100%; margin-bottom:10px; }
-.client-profile td			{ padding:7px 0 5px 10px; font-size:12px; color:#2A2A2A; }
+.client-profile td			{ padding:7px 0 5px 10px; font-size:12px; color:#FFFFFF; }
 .client-profile td.even	{ padding-right:15px; color:#747474; }
 
 .cont				{ width:auto; padding:0 ; overflow:auto;}
