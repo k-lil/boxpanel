@@ -41,9 +41,9 @@ margin: 0 auto;
 padding-bottom: 10px;
 width: 925px;
 }
-#top .logo			{ overflow: hidden; position:absolute; left:5px; top:10px; width:335px; height:74px; /*background:url(../img/logo-company.png) no-repeat;*/ padding: 5px 0 0 5px; }
+#top .logo			{ overflow: hidden; position:absolute; left:5px; top:10px; width:335px; height:74px; /*background:url(../img/logo-company.png) no-repeat;*/ padding:0; }
 #top .choose		{ float:right; padding:17px 0 0 20px; }
-#top .choose span	{ display:block; padding-bottom:5px; color:#FFFFFF; }
+#top .choose span	{ display:block; color:#FFFFFF; }
 #top .choose select{ 
 -moz-box-sizing: content-box;
 background: none repeat scroll 0 0 #25292B;
