@@ -334,7 +334,18 @@ width: auto;
 .cont table			{ border-collapse:collapse; margin-bottom:15px; width:100%; }
 .cont a				{ color:#0066CC; text-decoration:underline; }
 .cont a:hover		{ color:#4A95E0; }
-.cont input			{ /* padding:0 10px; */ }
+.cont input			{ 
+/* padding:0 10px; */ 
+background: -moz-linear-gradient(center top , #495D6B 0%, #36454F 100%) repeat scroll 0 0 transparent;
+border: 1px solid #292D2F;
+box-shadow: 0 1px 0 rgba(255, 255, 255, 0.2) inset;
+color: #FFFFFF;
+cursor: pointer;
+font-family: Arial,Helvetica,sans-serif;
+font-size: 11px;
+font-weight: bold;
+line-height: 12px;
+}
 .cont p, .cont td, .cont li, .cont div	{ font-size:13px; }
 .cont p				{ padding: 10px 20px 0px 20px; margin-bottom:10px; line-height:20px; }
 .cont ul			{ padding:0 0 0 20px; margin:0 0 10px 0; list-style-type:none; }
