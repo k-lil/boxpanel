@@ -1200,7 +1200,6 @@ padding: 0;
 .userNav ul li ul li a { width: 100px; padding: 6px 10px 7px 36px; font-size: 11px; text-transform: none; color: #c5c5c5; font-weight: normal; background-color: none; float: none; }
 .userNav ul li ul li a:hover { background-color: none; font-weight: normal; color: #a4a4a4; }
 .userNav ul li ul li:hover { background: #1d1d1d!important; }
-.userNav ul li span { display: none; }
 .userNav ul li img { padding: 13px 14px 11px 14px; margin: 0; }
 .userNav ul li ul { right: -3px; left: auto; }
 .userNav { float: none; text-align: center; position: relative; }
