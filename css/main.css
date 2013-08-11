@@ -360,7 +360,17 @@ line-height: 32px;
 text-align: center;
 width: auto;
 }
-
+button {
+background: -moz-linear-gradient(center top , #495D6B 0%, #36454F 100%) repeat scroll 0 0 transparent;
+border: 1px solid #292D2F;
+box-shadow: 0 1px 0 rgba(255, 255, 255, 0.2) inset;
+color: #FFFFFF;
+cursor: pointer;
+font-family: Arial,Helvetica,sans-serif;
+font-size: 11px;
+font-weight: bold;
+height: 25px;
+}
 .odd button {
 background: -moz-linear-gradient(center top , #AB494F 0%, #85363B 100%) repeat scroll 0 0 transparent;
 border: 1px solid #292D2F;
@@ -370,6 +380,7 @@ cursor: pointer;
 font-family: Arial,Helvetica,sans-serif;
 font-size: 11px;
 font-weight: bold;
+height: 25px;
 }
 .even button {
 background: -moz-linear-gradient(center top , #AB494F 0%, #85363B 100%) repeat scroll 0 0 transparent;
@@ -380,14 +391,15 @@ cursor: pointer;
 font-family: Arial,Helvetica,sans-serif;
 font-size: 11px;
 font-weight: bold;
+height: 25px;
 }
 .cont h2 span		{ background:none; padding:0 10px 0 0; margin:0; }
 .cont h2.head em	{ display:none; }
 .cont h3			{ color:#3B6086; font-size:12px; font-weight:bold; padding-left:10px; margin-bottom:10px; }
 .cont h4			{ font-size:13px; font-weight:bold; color:#3B6086; }
 .cont table			{ border-collapse:collapse; width:100%; }
-.cont a				{ color:#0066CC; text-decoration:underline; }
-.cont a:hover		{ color:#4A95E0; }
+.cont a				{ color:#3E5D6D; text-decoration:none; }
+.cont a:hover		{ color:#BB5D5C; text-decoration:none; }
 .cont input			{ 
 /* padding:0 10px; */ 
 background: -moz-linear-gradient(center top , #495D6B 0%, #36454F 100%) repeat scroll 0 0 transparent;
@@ -459,7 +471,7 @@ td.password div				{ background:#fff url(../img/password.gif) 1px 1px no-repeat;
 table.type-5					{ width:100%; }
 table.type-5 td					{ padding:7px 20px 8px 20px; text-align:center;}
 table.type-5 td.right   	{ text-align:right;}
-table.type-5 tr.head td			{ color:#3B6086; text-align:center; padding:7px 5px 8px 5px; }
+table.type-5 tr.head td			{ color:#BB5D5C; text-align:center; padding:7px 5px 8px 5px; }
 table.type-5 tr.even td		{ background:url("../img/darkerBg.png") repeat scroll 0 0 transparent; }
 table.type-5 tr.bot td			{ text-align:right; }
 table.type-5 tr.bot td input	{ /*margin-right:-10px;*/ }
