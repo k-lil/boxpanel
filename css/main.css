@@ -31,7 +31,7 @@ input[type="button"],button 	{ margin:10px;}
 .tar{text-align: right !important;}
 #start				{ width:100%; min-width:1003px; min-height:600px; height:100%; }
 #bef-main			{ width:100%; min-height:100%; }
-#main				{ width:960px; position:relative; margin:0 auto; }
+#main				{ width:925px; position:relative; margin:0 auto; }
 
 #top				{ 
 height: 70px;
