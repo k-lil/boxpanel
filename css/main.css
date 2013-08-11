@@ -71,7 +71,22 @@ width:120px;
 * html .module { height: 1%; overflow: visible; }
 * + html .module { min-height: 1%; }
 
-.breadCrumb { padding: 0; display: block; height: 21px; overflow: hidden; width: 100%; padding: 5px;  }
+.breadCrumb { 
+-moz-border-bottom-colors: none;
+-moz-border-left-colors: none;
+-moz-border-right-colors: none;
+-moz-border-top-colors: none;
+background: none repeat scroll 0 0 #25292B;
+border-color: #1E2226;
+border-image: initial;
+border-style: solid;
+border-width: 1px;
+display: block;
+height: 21px;
+overflow: hidden;
+padding: 5px;
+margin: 0 auto;
+width: 925px; }
 .breadCrumb ul { margin: 0; padding: 0; height: 21px; display: block; }
 .breadCrumb ul li { display: block; float: left; position: relative; height: 21px; overflow: hidden; line-height: 21px; margin: 0px 6px 0px 0; padding: 0px 14px 0px 4px; font-size: .9167em; background: url(../images/Chevron.gif) no-repeat 100%; }
 .breadCrumb ul li div.chevronOverlay { position: absolute; right: 0; top: 0; z-index: 2; }
