@@ -361,7 +361,26 @@ text-align: center;
 width: auto;
 }
 
-
+.odd button {
+background: -moz-linear-gradient(center top , #AB494F 0%, #85363B 100%) repeat scroll 0 0 transparent;
+border: 1px solid #292D2F;
+box-shadow: 0 1px 0 rgba(255, 255, 255, 0.2) inset;
+color: #FFFFFF;
+cursor: pointer;
+font-family: Arial,Helvetica,sans-serif;
+font-size: 11px;
+font-weight: bold;
+}
+.even button {
+background: -moz-linear-gradient(center top , #AB494F 0%, #85363B 100%) repeat scroll 0 0 transparent;
+border: 1px solid #292D2F;
+box-shadow: 0 1px 0 rgba(255, 255, 255, 0.2) inset;
+color: #FFFFFF;
+cursor: pointer;
+font-family: Arial,Helvetica,sans-serif;
+font-size: 11px;
+font-weight: bold;
+}
 .cont h2 span		{ background:none; padding:0 10px 0 0; margin:0; }
 .cont h2.head em	{ display:none; }
 .cont h3			{ color:#3B6086; font-size:12px; font-weight:bold; padding-left:10px; margin-bottom:10px; }
