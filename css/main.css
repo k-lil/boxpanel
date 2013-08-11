@@ -82,6 +82,14 @@ width:120px;
 .breadCrumb ul li.firstB a { height: 16px !important; text-indent:-1000em; width:16px; padding: 0; margin-top: 2px; overflow: hidden; background:url(../img/IconHome.gif) no-repeat 0 0; }
 .breadCrumb ul li.firstB a:hover { background-position: 0 -16px; }
 .breadCrumb ul li.lastB { background: none; margin-right: 0; padding-right: 0; }
+.breadCrumbi ul { margin: 0; padding: 0; height: 21px; display: block; }
+.breadCrumbi ul li { display: block; float: left; position: relative; height: 21px; overflow: hidden; line-height: 21px; margin: 0px 6px 0px 0; padding: 0px 14px 0px 4px; font-size: .9167em; background: url(../img/Chevron.gif) no-repeat 100%; }
+.breadCrumbi ul li div.chevronOverlay { position: absolute; right: 0; top: 0; z-index: 2; }
+.breadCrumbi ul li span { display: block; overflow: hidden; }
+.breadCrumbi ul li a { display: block; position: relative; height: 21px; line-height: 21px; overflow: hidden; float: left; }
+.breadCrumbi ul li.firstB a { height: 16px !important; text-indent:-1000em; width:16px; padding: 0; margin-top: 2px; overflow: hidden; background:url(../img/IconHome.gif) no-repeat 0 0; }
+.breadCrumbi ul li.firstB a:hover { background-position: 0 -16px; }
+.breadCrumbi ul li.lastB { background: none; margin-right: 0; padding-right: 0; }
 
 .breadCrumbHolder.module { border: solid 1px #1E2226; background: #25292B; margin-top: 20px; border-image: initial; }
 
