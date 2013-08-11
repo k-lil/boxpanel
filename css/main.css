@@ -71,7 +71,7 @@ width:120px;
 * html .module { height: 1%; overflow: visible; }
 * + html .module { min-height: 1%; }
 
-.breadCrumb { padding: 0; float: left; display: block; height: 21px; overflow: hidden; width: 100%; padding: 5px;  }
+.breadCrumb { padding: 0; display: block; height: 21px; overflow: hidden; width: 100%; padding: 5px;  }
 .breadCrumb ul { margin: 0; padding: 0; height: 21px; display: block; }
 .breadCrumb ul li { display: block; float: left; position: relative; height: 21px; overflow: hidden; line-height: 21px; margin: 0px 6px 0px 0; padding: 0px 14px 0px 4px; font-size: .9167em; background: url(../images/Chevron.gif) no-repeat 100%; }
 .breadCrumb ul li div.chevronOverlay { position: absolute; right: 0; top: 0; z-index: 2; }
@@ -1257,86 +1257,6 @@ display: inline;
 }
 .widget, .content .title, .count, .widget .num a, a.count1, .table, .breadCrumb, .earnings, .leftNav ul li a, .listData .cNote, .pages li a, .errorPage, .btn14, .btn55, .loginPanel, .customfile {
 border-radius: 2px 2px 2px 2px;
-}
-.breadCrumbHolder.module {
-background: none repeat scroll 0 0 #FAFAFA;
-margin-top: 20px;
-}
-.breadCrumb {
--moz-border-bottom-colors: none;
--moz-border-left-colors: none;
--moz-border-right-colors: none;
--moz-border-top-colors: none;
-background: none repeat scroll 0 0 #25292B;
-border-color: #1E2226;
-border-image: initial;
-border-style: solid;
-border-width: 1px;
-display: block;
-float: left;
-height: 21px;
-overflow: hidden;
-padding: 5px;
-margin: 0 auto;
-width: 925px;
-}
-.breadCrumb ul {
-display: block;
-height: 21px;
-margin: 0;
-padding: 0;
-}
-.breadCrumb ul li {
-background: url("../img/IconHome.gif") no-repeat scroll 100% -30% transparent;
-color: #FFFFFF;
-display: block;
-float: left;
-font-size: 0.9167em;
-height: 21px;
-line-height: 21px;
-margin: 0 5px 0 0;
-overflow: hidden;
-padding: 0 5px 0 2px;
-position: relative;
-}
-.breadCrumb ul li div.chevronOverlay {
-position: absolute;
-right: 0;
-top: 0;
-z-index: 2;
-}
-.breadCrumb ul li span {
-display: block;
-overflow: hidden;
-}
-.breadCrumb ul li a {
-display: block;
-float: left;
-height: 21px;
-line-height: 21px;
-overflow: hidden;
-position: relative;
-}
-.breadCrumb ul li.firstB a {
-background: url("../img/IconHome.gif") no-repeat scroll 0 0 transparent;
-height: 16px !important;
-margin-top: 2px;
-overflow: hidden;
-padding: 0;
-text-indent: -1000em;
-width: 16px;
-}
-.breadCrumb ul li.firstB a:hover {
-background-position: 0 -16px;
-}
-.breadCrumb ul li.lastB {
-background: none repeat scroll 0 0 transparent;
-margin-right: 0;
-padding-right: 0;
-}
-.breadCrumb {
-height: 100%;
-overflow: hidden;
 }
 .form span.but button  {
 background-color: #F9F9F9;
