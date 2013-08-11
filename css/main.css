@@ -88,7 +88,7 @@ padding: 5px;
 margin: 0 auto;
 width: 925px; }
 .breadCrumb ul { margin: 0; padding: 0; height: 21px; display: block; }
-.breadCrumb ul li { display: block; float: left; position: relative; height: 21px; overflow: hidden; line-height: 21px; margin: 0px 6px 0px 0; padding: 0px 14px 0px 4px; font-size: .9167em; background: url(../images/Chevron.gif) no-repeat 100%; }
+.breadCrumb ul li { display: block; float: left; position: relative; height: 21px; overflow: hidden; line-height: 21px; margin: 0px 6px 0px 0; padding: 0px 14px 0px 4px; font-size: .9167em; background: url(../img/Chevron.gif) no-repeat 100%; }
 .breadCrumb ul li div.chevronOverlay { position: absolute; right: 0; top: 0; z-index: 2; }
 .breadCrumb ul li span { display: block; overflow: hidden; }
 .breadCrumb ul li a { display: block; position: relative; height: 21px; line-height: 21px; overflow: hidden; float: left; }
