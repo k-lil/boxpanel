@@ -444,8 +444,9 @@ border-style: none solid solid;
 border-width: medium 1px 1px; 
 margin-bottom: 50px;
 margin-top:10px; 
+margin-left: 10px;
 padding-bottom: 1%;
-width: 935px;
+width: 675px;
 }
 
 table.type-1 td					{ padding:4px 10px 5px 10px; }
