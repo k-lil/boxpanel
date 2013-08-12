@@ -309,8 +309,8 @@ ul.nav-left li a.icon-5	{ background-image:url(../img/icons/icon-small-5.png); b
 ul.nav-left li a.icon-6	{ background-image:url(../img/icons/icon-small-6.png); background-position: 2% center; border-top: 1px solid #D5D5D5; border-bottom: 1px solid #D5D5D5;}
 ul.nav-left li a.icon-7	{ background-image:url(../img/icons/icon-small-7.png); background-position: 2% center; border-top: 1px solid #D5D5D5; border-bottom: 1px solid #D5D5D5;}
 
-#side-2				{ float:left; width:309px; padding:0; }
-#mid-inner #side-2	{ width:710px; }
+#side-2				{ float:left; width:auto; padding:0; }
+#mid-inner #side-2	{ width:auto; }
 .layout-profile #mid-inner #side-2	{ width:100%; }
 .body   { padding: 12px 14px; }
 
