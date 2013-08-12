@@ -1272,8 +1272,4 @@ margin: 0px;
 .odd {background: url("../img/darkerBg.png") repeat scroll 0 0 transparent;}
 div.jGrowl.bottom-right { right: 0px !important; bottom: 20px !important;}
 
-.selector-lang {
-    float: right;
-    margin-right: -10px;
-    padding: 26px 0;
-}
+.selector-lang {float: right;padding: 26px 0;}
