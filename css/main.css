@@ -418,7 +418,7 @@ height: 25px;
 .cont select		{ background:#fff; border:1px solid #7F9DB9; font-size:11px; padding:1px 5px 2px 5px; }
 .cont select		{ padding:0; }
 .cont .block		{ padding:0; margin:0;  border-top:0; overflow: auto; width: 100%; }
-.cont textarea{     -moz-box-sizing: border-box;
+.cont textarea{ -moz-box-sizing: border-box;
 background: none repeat scroll 0 0 #25292B;
 border: 1px solid #1E2226;
 box-shadow: 0 1px 0 #363B3E;
@@ -1287,4 +1287,14 @@ background-repeat: repeat !important;
 background-size: auto auto !important;
 border: medium none;
 vertical-align: middle;
+}
+.goog-te-gadget-simple {
+background: none repeat scroll 0 0 padding-box #25292B!important;
+border: 1px solid #1E2226;
+color: #FFFFFF;
+cursor: pointer;
+display: inline-block;
+font-size: 10pt;
+padding-bottom: 2px;
+padding-top: 1px;
 }
