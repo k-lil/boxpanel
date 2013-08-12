@@ -415,7 +415,7 @@ height: 25px;
 .cont input[type=password],
 .cont select		{ background:#fff; border:1px solid #7F9DB9; font-size:11px; padding:1px 5px 2px 5px; }
 .cont select		{ padding:0; }
-.cont .block		{ padding:0; margin:0;  border-top:0; overflow: auto; }
+.cont .block		{ padding:0; margin:0;  border-top:0; overflow: auto; width: 100%; }
 .cont textarea{     -moz-box-sizing: border-box;
 background: none repeat scroll 0 0 #25292B;
 border: 1px solid #1E2226;
