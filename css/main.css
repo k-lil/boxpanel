@@ -312,7 +312,7 @@ ul.nav-left li a.icon-7	{ background-image:url(../img/icons/icon-small-7.png); b
 
 #side-2				{ float:left; width:309px; padding:0; }
 #mid-inner #side-2	{ width:710px; }
-.layout-profile #mid-inner #side-2	{ width:950px; }
+.layout-profile #mid-inner #side-2	{ width:auto; }
 .body   { padding: 12px 14px; }
 
 .block				{ width:auto; padding:10px;}
