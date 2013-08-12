@@ -54,7 +54,7 @@ line-height: 28px;
 width:120px; 
 }
 
-#top-menu			{ border-collapse:collapse; width:960px; background:url(../img/top-menu.gif) repeat-x; margin:0 auto; }
+#top-menu			{ border-collapse:collapse; width:950px; background:url(../img/top-menu.gif) repeat-x; margin:0 auto; }
 #top-menu td		{ padding:0; text-align:center; height:35px; }
 #top-menu td:hover, #top-menu td.s	{ background:url(../img/top-menu-s.png) no-repeat; }
 #top-menu td:hover a	{ background:url(../img/top-menu-s-2.gif) 100% 0 no-repeat; }
@@ -99,7 +99,7 @@ width:120px;
 #nav li a			{ font-size:12px; }
 #nav li a.s			{ font-weight:bold; }
 
-#mid, #mid-inner	{ width:960px; overflow:auto; background: none repeat scroll 0 0 transparent; }
+#mid, #mid-inner	{ width:950px; overflow:auto; background: none repeat scroll 0 0 transparent; }
 #mid-inner			{ background:none; }
 .layout-profile #mid-inner			{ background:none; }
 .layout-public #mid-inner			{ background:#fff; }
