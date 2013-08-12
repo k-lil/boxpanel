@@ -274,7 +274,9 @@ height:30px;
 .list .item span.icon-cron-output	{ background:url(../img/icons/icon-29.png) 0px 0px no-repeat; }
 .list .item span.icon-mail-service-control { background:url(../img/icons/icon-mail-service-control.png) 0px 0px no-repeat; }
 
-#nav-left			{ background: url("../img/leftNavBg.png") repeat-x scroll 0 0 #EFEFEF; list-style-type:none; padding:0; margin:0; }
+#nav-left	
+
+{ background: url("../img/leftNavBg.png") repeat-x scroll 0 0 #EFEFEF; list-style-type:none; padding:0; margin:0; }
 #nav-left li		{ padding:13px 0 13px 45px; margin:0; font-weight:bold; font-size:14px; }
 #nav-left li.sub	{ padding:4px 0 4px 45px; font-weight:normal; font-size:11px; }
 #nav-left a			{ color:#3B6086; }
@@ -310,7 +312,7 @@ ul.nav-left li a.icon-6	{ background-image:url(../img/icons/icon-small-6.png); b
 ul.nav-left li a.icon-7	{ background-image:url(../img/icons/icon-small-7.png); background-position: 2% center; border-top: 1px solid #D5D5D5; border-bottom: 1px solid #D5D5D5;}
 
 #side-2				{ float:left; width:auto; padding:0; }
-#mid-inner #side-2	{ width:auto; }
+#mid-inner #side-2	{ width:71%; }
 .layout-profile #mid-inner #side-2	{ width:100%; }
 .body   { padding: 12px 14px; }
 
