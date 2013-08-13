@@ -323,7 +323,7 @@ ul.nav-left li a.icon-7	{ background-image:url(../img/icons/icon-small-7.png); b
 
 .block {display: block; padding-top: 10px; width: auto;}
 .block table		{ border-collapse:collapse; width:100%; margin-bottom:10px; }
-.block td			{ padding:7px 15px 5px 15px; font-size:12px; color:#FFFFFF; }
+.block td			{ padding:10px; font-size:12px; color:#FFFFFF; }
 .block td.even		{ padding-right:15px; color:#747474; }
 span.active		{ display:block; height:15px; color:#72C66F; font-weight:bold; }
 span.active.not, span.inactive	{display:block; height:15px; color:#B55D5C; font-weight:bold;}
