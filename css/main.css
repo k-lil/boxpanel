@@ -401,9 +401,7 @@ height: 25px;
 .cont table			{ border-collapse:collapse; width:100%; }
 .cont a				{ color:#3E5D6D; text-decoration:none; }
 .cont a:hover		{ color:#BB5D5C; text-decoration:none; }
-.cont input			{ 
-/* padding:0 10px; */ 
-
+.cont input
 .mainForm input[type="text"], .mainForm textarea, .mainForm input[type="password"] {
 -moz-box-sizing: border-box;
 background: none repeat scroll 0 0 #25292B;
