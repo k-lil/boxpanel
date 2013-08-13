@@ -303,8 +303,8 @@ ul.nav-left li  { padding: 0; margin:0; font-weight:bold; font-size:14px; }
 ul.nav-left li a{ padding: 8px 0 0 30px; display: block; height: 27px; background-repeat: no-repeat;}
 ul.nav-left li ul   { list-style-type:none; padding:0; margin:8px 0 8px 28px; }
 ul.nav-left li ul li a { padding: 2px; height: auto; font-weight:normal; font-size:11px;}
-ul.nav-left a   { color:#3B6086; }
-ul.nav-left li.active > a { color: #000}
+ul.nav-left a   { color:#FFF; }
+ul.nav-left li.active > a { color: #BB5D5C}
 
 
 ul.nav-left li a.icon-0	{ display: none;}
