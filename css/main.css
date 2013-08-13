@@ -403,10 +403,13 @@ height: 25px;
 .cont a:hover		{ color:#BB5D5C; text-decoration:none; }
 .cont input			{ 
 /* padding:0 10px; */ 
-background: -moz-linear-gradient(center top , #495D6B 0%, #36454F 100%) repeat scroll 0 0 transparent;
-border: 1px solid #292D2F;
-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.2) inset;
-color: #FFFFFF;
+
+.mainForm input[type="text"], .mainForm textarea, .mainForm input[type="password"] {
+-moz-box-sizing: border-box;
+background: none repeat scroll 0 0 #25292B;
+border: 1px solid #1E2226;
+box-shadow: 0 1px 0 #363B3E;
+color: #D5D5D5;
 cursor: pointer;
 font-family: Arial,Helvetica,sans-serif;
 font-size: 11px;
