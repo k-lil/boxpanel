@@ -302,7 +302,7 @@ ul.nav-left a   { color:#3B6086; }
 ul.nav-left li.active > a { color: #000}
 
 
-ul.nav-left li a.icon-0	{ background-image:url(../img/icons/icon-small-0.png); background-position: 2% center; border-bottom: 1px solid #D5D5D5;}
+ul.nav-left li a.icon-0	{ display: none;}
 ul.nav-left li a.icon-1	{ background-image:url(../img/icons/icon-small-1.png); background-position: 2% center; border-bottom: 1px solid #D5D5D5;}
 ul.nav-left li a.icon-2	{ background-image:url(../img/icons/icon-small-2.png); background-position: 2% center; border-top: 1px solid #D5D5D5; border-bottom: 1px solid #D5D5D5;}
 ul.nav-left li a.icon-3	{ background-image:url(../img/icons/icon-small-3.png); background-position: 2% center; border-top: 1px solid #D5D5D5; border-bottom: 1px solid #D5D5D5;}
