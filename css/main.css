@@ -1291,6 +1291,10 @@ margin: 0px;
 .bot{border-top: 1px solid #3B4144;}
 .odd {background: url("../img/darkerBg.png") repeat scroll 0 0 transparent;}
 div.jGrowl.bottom-right { right: 0px !important; bottom: 20px !important;}
+.welcome span .head { display:none; }
+.welcome span .left{ display:none; }
+.welcome span  .color{ text-align: center;}
+.welcome span .client-profile { background: none repeat scroll 0 0 transparent; border: medium none; display: block; float: right; height: 31px; margin: -27px -29px; position: static; }
 
 
 
