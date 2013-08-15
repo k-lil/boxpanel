@@ -1,17 +1,19 @@
-@import url(http://fonts.googleapis.com/css?family=Cuprum);
+@import "translator.css";
+@import "fonts.css";
+
 html, body						{ height:100% !important; min-height:100%; }
 body, form						{ padding:0; margin:0; }
 body { 
-background: url("../img/bodyBg.jpg") repeat scroll 0 0 transparent;
-color: #D5D5D5;
-font-family: Arial,Helvetica,sans-serif;
-font-size: 12px;
-line-height: 20px;
-margin: 0;
-min-height: 100%;
-padding: 0;
-position: relative;
-}
+background: url("../img/bodyBg.jpg") repeat scroll 0 0 transparent; color: #D5D5D5; font-family: Arial,Helvetica,sans-serif; font-size: 12px; line-height: 20px;
+margin: 0; min-height: 100%; padding: 0; position: relative;}
+html,body,div,ul,ol,li,dl,dt,dd,h1,h2,h3,h4,h5,h6,pre,form,p,blockquote,fieldset,input,hr {margin:0; padding:0;}
+h1,h2,h3,h4,h5,h6,pre,code,address,caption,cite,code,em,strong,th {font-size:1em; font-weight:normal; font-style:normal;}
+ul,ol {list-style:none;}
+fieldset,img,hr {border:none;}
+caption,th {text-align:left;}
+table {border-collapse:collapse; border-spacing:0;}
+td {vertical-align:top;}
+
 div,
 table,
 td,
@@ -414,6 +416,16 @@ font-size: 11px;
 font-weight: bold;
 line-height: 12px;
 height: 25px;
+}
+.block.blck2 input {
+-moz-box-sizing: border-box;
+background: none repeat scroll 0 0 #25292B;
+border: 1px solid #1E2226;
+box-shadow: 0 1px 0 #363B3E;
+color: #D5D5D5;
+display: block;
+font-family: Arial,Helvetica,sans-serif;
+font-size: 11px;
 }
 .cont p, .cont td, .cont li, .cont div	{ font-size:13px; }
 .cont p				{ padding: 10px 20px 0px 20px; margin-bottom:10px; line-height:20px; }
@@ -1280,27 +1292,6 @@ margin: 0px;
 .odd {background: url("../img/darkerBg.png") repeat scroll 0 0 transparent;}
 div.jGrowl.bottom-right { right: 0px !important; bottom: 20px !important;}
 
-.selector-lang {float: right;padding: 26px 0;}
 
-.goog-te-gadget img {
-background-attachment: scroll !important;
-background-clip: border-box !important;
-background-color: transparent !important;
-background-image: url("../img/te_ctrl3.png") !important;
-background-origin: padding-box !important;
-background-position: 4px center !important;
-background-repeat: no-repeat !important;
-background-size: auto auto !important;
-border: medium none;
-vertical-align: middle;
-}
-.goog-te-gadget-simple {
-background: none repeat scroll 0 0 padding-box #25292B!important;
-border: 1px solid #1E2226;
-color: #FFFFFF;important;
-cursor: pointer;
-display: inline-block;
-font-size: 10pt;
-padding-bottom: 2px;
-padding-top: 1px;
-}
+
+

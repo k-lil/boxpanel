@@ -1,0 +1,718 @@
+.selector-lang {float: right;padding: 26px 0;}
+.goog-te-gadget img {
+background-attachment: scroll !important;
+background-clip: border-box !important;
+background-color: transparent !important;
+background-image: url("../img/te_ctrl3.png") !important;
+background-origin: padding-box !important;
+background-position: 4px center !important;
+background-repeat: no-repeat !important;
+background-size: auto auto !important;
+border: medium none;
+vertical-align: middle;
+}
+.goog-te-gadget-simple {
+background: none repeat scroll 0 0 padding-box #25292B!important;
+border: 1px solid #1E2226;
+color: #FFFFFF;important;
+cursor: pointer;
+display: inline-block;
+font-size: 10pt;
+padding-bottom: 2px;
+padding-top: 1px;
+}
+.goog-te-banner-frame.skiptranslate {
+    display: none !important;
+} body { top: 0px !important; }
+.goog-tooltip {
+    display: none !important;
+}
+.goog-tooltip:hover {
+    display: none !important;
+}
+.goog-text-highlight {
+    background-color: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+.goog-te-banner-frame {
+    -moz-border-bottom-colors: none!important;
+    -moz-border-left-colors: none!important;
+    -moz-border-right-colors: none!important;
+    -moz-border-top-colors: none!important;
+    border-color: -moz-use-text-color -moz-use-text-color #6B90DA!important;
+    border-image: none!important;
+    border-style: none none solid!important;
+    border-width: medium medium 1px!important;
+    box-shadow: 0 0 8px 1px #999999!important;
+    height: 39px!important;
+    left: 0!important;
+    margin: 0!important;
+    position: fixed!important;
+    top: 0!important;
+    width: 100%!important;
+    z-index: 10000001!important;
+}
+.goog-te-menu-frame {
+    border: medium none!important;
+
+    position: fixed!important;
+    z-index: 10000002!important;
+}
+.goog-te-ftab-frame {
+    border: medium none!important;
+    margin: 0!important;
+    z-index: 10000000!important;
+}
+.goog-te-gadget {
+    color: #666666!important;
+    font-family: arial!important;
+    font-size: 11px!important;
+    white-space: nowrap!important;
+}
+.goog-te-gadget img {
+    border: medium none!important;
+    vertical-align: middle!important;
+}
+.goog-te-gadget-simple {
+background: none repeat scroll 0 0 padding-box #25292B!important;
+border: 1px solid #1E2226!important;
+color: #FFFFFF!important;
+cursor: pointer;
+display: inline-block;
+font-size: 10pt;
+padding-bottom: 2px;
+padding-top: 1px;
+}
+.goog-te-gadget-icon {
+    border: medium none!important;
+    height: 19px!important;
+    margin-left: 2px!important;
+    margin-right: 2px!important;
+    vertical-align: middle!important;
+    width: 19px!important;
+}
+.goog-te-combo {
+    margin-left: 4px!important;
+    margin-right: 4px!important;
+    vertical-align: baseline!important;
+}
+.goog-te-gadget .goog-te-combo {
+    margin: 4px 0!important;
+}
+.goog-logo-link, .goog-logo-link:link, .goog-logo-link:visited, .goog-logo-link:hover, .goog-logo-link:active {
+    color: #444444!important;
+    font-size: 12px!important;
+    font-weight: bold!important;
+    text-decoration: none!important;
+}
+.goog-te-banner .goog-logo-link, .goog-close-link {
+    display: block!important;
+    margin: 0 10px!important;
+}
+.goog-te-banner .goog-logo-link {
+    padding-left: 4px!important;
+    padding-top: 2px!important;
+}
+.goog-te-combo, .goog-te-banner *, .goog-te-ftab *, .goog-te-menu *, .goog-te-menu2 *, .goog-te-balloon * {
+    font-family: arial!important;
+    font-size: 10pt!important;
+}
+.goog-te-banner {
+    background-color: #E4EFFB!important;
+    margin: 0!important;
+    overflow: hidden!important;
+}
+.goog-te-banner img {
+    border: medium none!important;
+}
+.goog-te-banner-content {
+    color: #000000!important;
+}
+.goog-te-banner-content img {
+    vertical-align: middle!important;
+}
+.goog-te-banner-info {
+    color: #666666!important;
+    font-size: 7pt!important;
+    margin-top: 0!important;
+    vertical-align: top!important;
+}
+.goog-te-banner-margin {
+    width: 8px!important;
+}
+.goog-te-button {
+    border-color: #E7E7E7!important;
+    border-style: none solid solid none!important;
+    border-width: 0 1px 1px 0!important;
+}
+.goog-te-button div {
+    border-color: #CCCCCC #999999 #999999 #CCCCCC!important;
+    border-style: solid!important;
+    border-width: 1px!important;
+    height: 20px!important;
+}
+.goog-te-button button {
+    background: none repeat scroll 0 0 transparent!important;
+    border: medium none!important;
+    cursor: pointer!important;
+    height: 20px!important;
+    margin: 0!important;
+    overflow: hidden!important;
+    vertical-align: top!important;
+    white-space: nowrap!important;
+}
+.goog-te-button button:active {
+    background: none repeat scroll 0 0 #CCCCCC!important;
+}
+.goog-te-ftab {
+    background-color: #BB5DC!important;
+    margin: 0!important;
+    white-space: nowrap!important;
+}
+.goog-te-ftab-link {
+    border: 1px outset #888888!important;
+    font-size: 10pt!important;
+    font-weight: bold!important;
+    left: 0!important;
+    padding: 6px 10px!important;
+    position: absolute!important;
+    text-decoration: none!important;
+    top: 0!important;
+    white-space: nowrap!important;
+}
+.goog-te-ftab-link img {
+    border: medium none!important;
+    height: 19px!important;
+    margin-left: 2px!important;
+    margin-right: 2px!important;
+    vertical-align: middle!important;
+    width: 19px!important;
+}
+.goog-te-ftab-link span {
+    margin-left: 2px!important;
+    margin-right: 2px!important;
+    text-decoration: underline!important;
+    vertical-align: middle!important;
+}
+.goog-float-top .goog-te-ftab-link {
+    border-top-width: 0!important;
+    padding: 2px!important;
+}
+.goog-float-bottom .goog-te-ftab-link {
+    border-bottom-width: 0!important;
+    padding: 2px!important;
+}
+.goog-te-menu-value {
+    color: #0000CC!important;
+    margin-left: 4px!important;
+    margin-right: 4px!important;
+    text-decoration: none!important;
+    white-space: nowrap!important;
+}
+.goog-te-menu-value span {
+    text-decoration: underline!important;
+}
+.goog-te-menu-value img {
+margin-left: 2px!important;
+margin-right: 2px!important;
+visibility: hidden;
+}
+.goog-te-gadget-simple .goog-te-menu-value {
+color: #FFFFFF!important;
+}
+.goog-te-gadget-simple .goog-te-menu-value span {
+border:none!important;
+text-decoration: none!important;
+}
+.goog-te-menu {
+    background-color: #222!important;
+    border: 2px solid #C3D9FF!important;
+    left: 0!important;
+    overflow-x: hidden!important;
+    overflow-y: scroll!important;
+    position: absolute!important;
+    text-decoration: none!important;
+    top: 0!important;
+}
+.goog-te-menu-item {
+    padding: 3px!important;
+    text-decoration: none!important;
+}
+.goog-te-menu-item, .goog-te-menu-item:link {
+    background: none repeat scroll 0 0 #FFFFFF!important;
+    color: #0000CC!important;
+}
+.goog-te-menu-item:visited {
+    color: #551A8B!important;
+}
+.goog-te-menu-item:hover {
+    background: none repeat scroll 0 0 #C3D9FF!important;
+}
+.goog-te-menu-item:active {
+    color: #0000CC!important;
+}
+.goog-te-menu2 {
+    background: #222!important;
+    border: 1px solid #6B90DA!important;
+    overflow: hidden!important;
+    padding: 4px!important;
+    text-decoration: none!important;
+}
+.goog-te-menu2-colpad {
+    width: 16px!important;
+}
+.goog-te-menu2-separator {
+    background-color: #AAAAAA!important;
+    height: 1px!important;
+    margin: 6px 0!important;
+    overflow: hidden!important;
+}
+.goog-te-menu2-item div, .goog-te-menu2-item-selected div {
+    padding: 4px!important;
+}
+.goog-te-menu2-item .indicator {
+    display: none!important;
+}
+.goog-te-menu2-item-selected .indicator {
+}
+.goog-te-menu2-item-selected .text {
+    padding-left: 4px!important;
+    padding-right: 4px!important;
+}
+.goog-te-menu2-item, .goog-te-menu2-item-selected {
+    text-decoration: none!important;
+}
+.goog-te-menu2-item div, .goog-te-menu2-item:link div, .goog-te-menu2-item:visited div, .goog-te-menu2-item:active div {
+    background: none repeat scroll 0 0 #FFFFFF!important;
+    color: #0000CC!important;
+}
+.goog-te-menu2-item:hover div {
+    background: none repeat scroll 0 0 #3366CC!important;
+    color: #FFFFFF!important;
+}
+.goog-te-menu2-item-selected div, .goog-te-menu2-item-selected:link div, .goog-te-menu2-item-selected:visited div, .goog-te-menu2-item-selected:hover div, .goog-te-menu2-item-selected:active div {
+    color: #000000!important;
+    font-weight: bold!important;
+}
+.goog-te-balloon {
+    background-color: #FFFFFF!important;
+    border: medium none!important;
+    border-radius: 10px 10px 10px 10px!important;
+    overflow: hidden!important;
+    padding: 8px!important;
+}
+.goog-te-balloon-frame {
+    background-color: #FFFFFF!important;
+    border: 1px solid #6B90DA!important;
+    border-radius: 8px 8px 8px 8px!important;
+    box-shadow: 0 3px 8px 2px #999999!important;
+}
+.goog-te-balloon img {
+    border: medium none!important;
+}
+.goog-te-balloon-text {
+    margin-top: 6px!important;
+}
+.goog-te-balloon-zippy {
+    margin-top: 6px!important;
+    white-space: nowrap!important;
+}
+.goog-te-balloon-zippy * {
+    vertical-align: middle!important;
+}
+.goog-te-balloon-zippy .minus {
+    background-image: url("//www.google.com/images/zippy_minus_sm.gif")!important;
+}
+.goog-te-balloon-zippy .plus {
+    background-image: url("//www.google.com/images/zippy_plus_sm.gif")!important;
+}
+.goog-te-balloon-zippy span {
+    color: #0000CC!important;
+    cursor: pointer!important;
+    margin: 0 4px!important;
+    text-decoration: underline!important;
+}
+.goog-te-balloon-form {
+    margin: 6px 0 0!important;
+}
+.goog-te-balloon-form form {
+    margin: 0!important;
+}
+.goog-te-balloon-form form textarea {
+    margin-bottom: 4px!important;
+    width: 100%!important;
+}
+.goog-te-balloon-footer {
+    margin: 6px 0 4px!important;
+}
+#goog-gt-tt html, #goog-gt-tt body, #goog-gt-tt div, #goog-gt-tt span, #goog-gt-tt iframe, #goog-gt-tt h1, #goog-gt-tt h2, #goog-gt-tt h3, #goog-gt-tt h4, #goog-gt-tt h5, #goog-gt-tt h6, #goog-gt-tt p, #goog-gt-tt a, #goog-gt-tt img, #goog-gt-tt ol, #goog-gt-tt ul, #goog-gt-tt li, #goog-gt-tt table, #goog-gt-tt form, #goog-gt-tt tbody, #goog-gt-tt tr, #goog-gt-tt td {
+    -moz-font-feature-settings: inherit!important;
+    -moz-font-language-override: inherit!important;
+    border: 0 none!important;
+    font-family: inherit!important;
+    font-size: inherit!important;
+    font-size-adjust: inherit!important;
+    font-stretch: inherit!important;
+    font-style: inherit!important;
+    font-variant: inherit!important;
+    font-weight: inherit!important;
+    line-height: normal!important;
+    margin: 0!important;
+    padding: 0!important;
+    text-align: left!important;
+    vertical-align: baseline!important;
+}
+#goog-gt-tt ol, #goog-gt-tt ul {
+    list-style: none outside none!important;
+}
+#goog-gt-tt table {
+    border-collapse: collapse!important;
+    border-spacing: 0!important;
+}
+#goog-gt-tt caption, #goog-gt-tt th, #goog-gt-tt td {
+    font-weight: normal!important;
+    text-align: left!important;
+}
+#goog-gt-tt input::-moz-focus-inner {
+    border: 0 none!important;
+}
+div#goog-gt-tt {
+    padding: 10px 14px!important;
+}
+#goog-gt-tt {
+    background-color: #FFFFFF!important;
+    border: 1px solid #EEEEEE!important;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2)!important;
+    color: #222222!important;
+    display: none!important;
+    font-family: arial!important;
+    font-size: 10pt!important;
+    padding: 12px!important;
+    position: absolute!important;
+    width: 420px!important;
+    z-index: 10000!important;
+}
+#goog-gt-tt .original-text, .gt-hl-layer {
+    clear: both!important;
+    font-size: 10pt!important;
+    position: relative!important;
+    text-align: justify!important;
+    width: 100%!important;
+}
+#goog-gt-tt .title {
+    color: #999999!important;
+    font-family: arial,sans-serif!important;
+    margin: 4px 0!important;
+    text-align: left!important;
+}
+#goog-gt-tt .close-button {
+    display: none!important;
+}
+#goog-gt-tt .logo {
+    float: left!important;
+    margin: 0!important;
+}
+#goog-gt-tt .activity-links {
+    display: inline-block!important;
+}
+#goog-gt-tt .started-activity-container {
+    display: none!important;
+    width: 100%!important;
+}
+#goog-gt-tt .activity-root {
+    margin-top: 20px!important;
+}
+#goog-gt-tt .left {
+    float: left!important;
+}
+#goog-gt-tt .right {
+    float: right!important;
+}
+#goog-gt-tt .bottom {
+    height: 1%!important;
+    min-height: 15px!important;
+    position: relative!important;
+}
+#goog-gt-tt .status-message {
+    background: none repeat scroll 0 0 #29910D!important;
+    border-radius: 4px 4px 4px 4px!important;
+    box-shadow: 0 2px 2px #1E6609 inset!important;
+    color: white!important;
+    font-size: 9pt!important;
+    font-weight: bolder!important;
+    margin-top: 12px!important;
+    padding: 6px!important;
+    text-shadow: 1px 1px 1px #1E6609!important;
+}
+#goog-gt-tt .activity-link {
+    color: #1155CC!important;
+    cursor: pointer!important;
+    font-family: arial!important;
+    font-size: 11px!important;
+    margin-right: 15px!important;
+    text-decoration: none!important;
+}
+#goog-gt-tt textarea {
+    -moz-border-bottom-colors: none!important;
+    -moz-border-left-colors: none!important;
+    -moz-border-right-colors: none!important;
+    -moz-border-top-colors: none!important;
+    border-color: silver #D9D9D9 #D9D9D9!important;
+    border-image: none!important;
+    border-radius: 1px 1px 1px 1px!important;
+    border-right: 1px solid #D9D9D9!important;
+    border-style: solid!important;
+    border-width: 1px!important;
+    font-family: arial!important;
+    font-size: 13px!important;
+    height: auto!important;
+    margin-bottom: 10px!important;
+    overflow-y: auto!important;
+    padding: 1px!important;
+    resize: vertical!important;
+    width: 100%!important;
+}
+#goog-gt-tt textarea:focus {
+    border: 1px solid #4D90FE!important;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3) inset!important;
+    outline: medium none!important;
+}
+#goog-gt-tt .activity-cancel {
+    margin-right: 10px!important;
+}
+#goog-gt-tt .translate-form {
+    min-height: 25px!important;
+    padding-top: 8px!important;
+    vertical-align: middle!important;
+}
+#goog-gt-tt .translate-form .activity-form {
+    margin-bottom: 0!important;
+}
+#goog-gt-tt .translate-form .activity-form input {
+    -moz-user-select: none!important;
+    background-color: #F5F5F5!important;
+    background-image: -moz-linear-gradient(center top , #F5F5F5, #F1F1F1)!important;
+    border: 1px solid rgba(0, 0, 0, 0.1)!important;
+    border-radius: 2px 2px 2px 2px!important;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1)!important;
+    color: #444444!important;
+    cursor: default!important;
+    display: inline-block!important;
+    font-size: 11px!important;
+    font-weight: bold!important;
+    height: 27px!important;
+    line-height: 27px!important;
+    margin: 0 16px 0 0!important;
+    min-width: 54px!important;
+    outline: 0 none!important;
+    padding: 0 8px!important;
+    text-align: center!important;
+    transition: all 0.218s ease 0s!important;
+    vertical-align: middle!important;
+}
+#goog-gt-tt .translate-form .activity-form input:hover {
+    background-color: #F8F8F8!important;
+    background-image: -moz-linear-gradient(center top , #F8F8F8, #F1F1F1)!important;
+    border: 1px solid #C6C6C6!important;
+    color: #222222!important;
+    transition: all 0s ease 0s!important;
+}
+#goog-gt-tt .translate-form .activity-form input:active {
+    background-color: #F6F6F6!important;
+    background-image: -moz-linear-gradient(center top , #F6F6F6, #F1F1F1)!important;
+    border: 1px solid #C6C6C6!important;
+    color: #333333!important;
+}
+#goog-gt-tt .translate-form .activity-form input:focus, #goog-gt-tt .translate-form .activity-form input.focus {
+    border: 1px solid #4D90FE!important;
+    outline: medium none!important;
+    z-index: 4 !important!important;
+}
+#goog-gt-tt .translate-form .activity-form input.selected {
+    background-color: #EEEEEE!important;
+    background-image: -moz-linear-gradient(center top , #EEEEEE, #E0E0E0)!important;
+    border: 1px solid #CCCCCC!important;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1) inset!important;
+    color: #333333!important;
+}
+#goog-gt-tt .translate-form .activity-form input.activity-submit {
+    background-color: #4D90FE!important;
+    background-image: -moz-linear-gradient(center top , #4D90FE, #4787ED)!important;
+    border-color: #3079ED!important;
+    color: white!important;
+}
+#goog-gt-tt .translate-form .activity-form input.activity-submit:hover #goog-gt-tt .translate-form .activity-form input.activity-submit:focus, #goog-gt-tt .translate-form .activity-form input.activity-submit.focus #goog-gt-tt .translate-form .activity-form input.activity-submit:active {
+    background-color: #357AE8!important;
+    background-image: -moz-linear-gradient(center top , #4D90FE, #357AE8)!important;
+    border-color: #3079ED!important;
+}
+#goog-gt-tt .translate-form .activity-form input.activity-submit:hover {
+    box-shadow: 0 0 0 1px #FFFFFF inset, 0 1px 1px rgba(0, 0, 0, 0.1)!important;
+}
+#goog-gt-tt .translate-form .activity-form input:focus, #goog-gt-tt .translate-form .activity-form input.focus, #goog-gt-tt .translate-form .activity-form input:active, #goog-gt-tt .translate-form .activity-form input:hover, #goog-gt-tt .translate-form .activity-form input.activity-submit:focus, #goog-gt-tt .translate-form .activity-form input.activity-submit.focus, #goog-gt-tt .translate-form .activity-form input.activity-submit:active, #goog-gt-tt .translate-form .activity-form input.activity-submit:hover {
+    border-color: #3079ED!important;
+}
+#goog-gt-tt .gray {
+    color: #999999!important;
+    font-family: arial,sans-serif!important;
+}
+#goog-gt-tt .alt-helper-text {
+    color: #999999!important;
+    font-family: arial,sans-serif!important;
+    font-size: 11px!important;
+    margin: 15px 0 5px!important;
+}
+#goog-gt-tt .alt-error-text {
+    color: #880000!important;
+    display: none!important;
+    font-size: 9pt!important;
+}
+#goog-gt-tt .alt-menu.goog-menu {
+    background: none repeat scroll 0 0 #FFFFFF!important;
+    border: 1px solid #DDDDDD!important;
+    box-shadow: 0 2px 4px #9999AA!important;
+    min-width: 0!important;
+    outline: medium none!important;
+    padding: 0!important;
+    position: absolute!important;
+    z-index: 2000!important;
+}
+#goog-gt-tt .alt-menu .goog-menuitem {
+    border-style: none!important;
+    cursor: pointer!important;
+    margin-right: 0!important;
+    padding: 2px 5px 5px!important;
+}
+#goog-gt-tt .alt-menu div.goog-menuitem:hover {
+    background: none repeat scroll 0 0 #DDDDDD!important;
+}
+#goog-gt-tt .alt-menu .goog-menuitem h1 {
+    font-size: 100%!important;
+    font-weight: bold!important;
+    margin: 4px 0!important;
+}
+#goog-gt-tt .alt-menu .goog-menuitem strong {
+    color: #345AAD!important;
+}
+#goog-gt-tt .goog-submenu-arrow {
+    left: auto!important;
+    position: absolute!important;
+    right: 0!important;
+    text-align: right!important;
+}
+#goog-gt-tt .goog-menuitem-rtl .goog-submenu-arrow {
+    left: 0!important;
+    position: absolute!important;
+    right: auto!important;
+    text-align: left!important;
+}
+#goog-gt-tt .gt-hl-text, #goog-gt-tt .trans-target-highlight {
+    -moz-box-sizing: border-box!important;
+    background-color: #F1EA00!important;
+    border-radius: 4px 4px 4px 4px!important;
+    box-shadow: 3px 3px 4px rgba(0, 0, 0, 0.5)!important;
+    color: #F1EA00!important;
+    cursor: pointer!important;
+    margin: -2px -2px -2px -3px!important;
+    padding: 2px 2px 2px 3px!important;
+    position: relative!important;
+}
+#goog-gt-tt .trans-target-highlight {
+    color: #222222!important;
+}
+#goog-gt-tt .gt-hl-layer {
+    color: white!important;
+    position: absolute !important!important;
+}
+#goog-gt-tt .gt-trans-draggable, #goog-gt-tt .trans-target .gt-trans-draggable {
+    cursor: move!important;
+}
+#goog-gt-tt .trans-target, #goog-gt-tt .trans-target .trans-target-highlight {
+    -moz-box-sizing: border-box!important;
+    background-color: #C9D7F1!important;
+    border-radius: 4px 4px 0 0!important;
+    box-shadow: 3px 3px 4px rgba(0, 0, 0, 0.5)!important;
+    cursor: pointer!important;
+    margin: -2px -2px -2px -3px!important;
+    padding: 2px 2px 3px 3px!important;
+    position: relative!important;
+}
+#goog-gt-tt span:focus {
+    outline: medium none!important;
+}
+#goog-gt-tt .trans-edit {
+    background-color: transparent!important;
+    border: 1px solid #4D90FE!important;
+    border-radius: 0 0 0 0!important;
+    margin: -2px!important;
+    padding: 1px!important;
+}
+.trans-target-dragger {
+    background-color: transparent!important;
+    color: #000000!important;
+    font-family: arial!important;
+    font-size: 10pt!important;
+    opacity: 0.6!important;
+    padding: 1px 0!important;
+    z-index: 20000!important;
+}
+#goog-gt-tt .trans-target-currdragitem {
+    background-color: transparent!important;
+    color: #CCCCCC!important;
+}
+#goog-gt-tt .gt-trans-highlight-l {
+    border-left: 2px solid red!important;
+    margin-left: -2px!important;
+}
+#goog-gt-tt .gt-trans-highlight-r {
+    border-right: 2px solid red!important;
+    margin-right: -2px!important;
+}
+#goog-gt-tt #alt-input {
+    padding: 2px!important;
+}
+#goog-gt-tt #alt-input-text {
+    -moz-border-bottom-colors: none!important;
+    -moz-border-left-colors: none!important;
+    -moz-border-right-colors: none!important;
+    -moz-border-top-colors: none!important;
+    -moz-box-sizing: border-box!important;
+    background-color: #FFFFFF!important;
+    border-color: #C0C0C0 #D9D9D9 #D9D9D9!important;
+    border-image: none!important;
+    border-right: 1px solid #D9D9D9!important;
+    border-style: solid!important;
+    border-width: 1px!important;
+    color: #333333!important;
+    display: inline-block!important;
+    font-size: 11px!important;
+    height: 21px!important;
+    margin: 0!important;
+    padding: 2px 2px 3px!important;
+    vertical-align: top!important;
+}
+#goog-gt-tt #alt-input-text:hover {
+    -moz-border-bottom-colors: none!important;
+    -moz-border-left-colors: none!important;
+    -moz-border-right-colors: none!important;
+    -moz-border-top-colors: none!important;
+    border-color: #A0A0A0 #B9B9B9 #B9B9B9!important;
+    border-image: none!important;
+    border-right: 1px solid #B9B9B9!important;
+    border-style: solid!important;
+    border-width: 1px!important;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1) inset!important;
+}
+#goog-gt-tt #alt-input-text:focus {
+    border: 1px solid #4D90FE!important;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.3) inset!important;
+    outline: medium none!important;
+}
+#goog-gt-tt #alt-input-submit {
+    font-size: 11px!important;
+    height: 21px!important;
+    margin: 0 0 0 2px!important;
+    padding: 2px 6px 3px!important;
+}
