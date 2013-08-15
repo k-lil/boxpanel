@@ -426,6 +426,17 @@ color: #D5D5D5!important;
 font-family: Arial,Helvetica,sans-serif;
 font-size: 11px;
 }
+.button_link {
+background: -moz-linear-gradient(center top , #4E7589 0%, #3A5765 100%) repeat scroll 0 0 transparent;
+border: 1px solid #292D2F;
+box-shadow: 0 1px 0 rgba(255, 255, 255, 0.2) inset;
+color: #FFFFFF;
+cursor: pointer;
+font-family: Arial,Helvetica,sans-serif;
+font-size: 11px;
+font-weight: bold;
+line-height: 12px;
+}
 .cont p, .cont td, .cont li, .cont div	{ font-size:13px; }
 .cont p				{ padding: 10px 20px 0px 20px; margin-bottom:10px; line-height:20px; }
 .cont ul			{ padding:0 0 0 20px; margin:0 0 10px 0; list-style-type:none; }
