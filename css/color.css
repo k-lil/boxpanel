@@ -1,0 +1,115 @@
+/*                                                                                                                                    */
+	/* ------------------------------------------------------ COLOUR CHANGER START ------------------------------------------------------ */
+	/*                                                                                                                                    */
+ 
+	#colour-changer{
+		width: 50px;
+		height: 100%;
+		position: absolute;
+		top: 30px;
+		left: 0px; }
+ 
+		a.colour-changer-link {
+			background-image: url(../images/colour_changer_background.png);
+			background-repeat: no-repeat;
+			width: 50px;
+			height: 180px;
+			float: left; }
+ 
+			a.colour-changer-link:hover {
+				background-image: url(../images/colour_changer_background_hover.png);
+				background-repeat: no-repeat;
+				width: 50px;
+				height: 180px;
+				float: left; }
+ 
+	#colour-changer-header {
+		background-image: url(../images/colour_changer_header.png);
+		background-repeat: no-repeat;
+		width: 50px;
+		height: 23px;
+		float: left; }
+	 
+	#colour-changer-footer {
+		background-image: url(../images/colour_changer_footer.png);
+		background-repeat: no-repeat;
+		width: 50px;
+		height: 30px;
+		float: left; }
+	 
+	#colour-changer-blank {
+		background-image: url(../images/colour_changer_blank_background.png);
+		background-repeat: repeat;
+		width: 50px;
+		height: auto;
+		position: absolute;
+		top: 0px;
+		left: 0px;
+		overflow: hidden; }
+	 
+	.colour-changer-blue {
+		background-image: url(../images/colour_changer_blue_block.png);
+		background-repeat: no-repeat;
+		width: 20px;
+		height: 20px;
+		border: 1px solid #AAAAAA;
+		margin-left: 10px;
+		margin-top: 10px;
+		cursor: pointer;
+		float: left; }
+	 
+	.colour-changer-green {
+		background-image: url(../images/colour_changer_green_block.png);
+		background-repeat: no-repeat;
+		width: 20px;
+		height: 20px;
+		border: 1px solid #AAAAAA;
+		margin-left: 10px;
+		cursor: pointer;
+		float: left; }
+	 
+	.colour-changer-red {
+		background-image: url(../images/colour_changer_red_block.png);
+		background-repeat: no-repeat;
+		width: 20px;
+		height: 20px;
+		border: 1px solid #AAAAAA;
+		margin-left: 10px;
+		margin-top: 10px;
+		cursor: pointer;
+		float: left; }
+	 
+	.colour-changer-yellow {
+		background-image: url(../images/colour_changer_yellow_block.png);
+		background-repeat: no-repeat;
+		width: 20px;
+		height: 20px;
+		border: 1px solid #AAAAAA;
+		margin-left: 10px;
+		margin-top: 10px;
+		cursor: pointer;
+		float: left; }
+	 
+		a.colour-changer-cross {
+			background-image: url(../images/colour_changer_cross.png);
+			background-repeat: no-repeat;
+			width: 21px;
+			height: 21px;
+			margin-left: 10px;
+			margin-top: 10px;
+			cursor: pointer;
+			float: left; }
+ 
+			.colour-changer-cross:hover {
+				background-image: url(../images/colour_changer_blue_cross.png);
+				background-repeat: no-repeat;
+				width: 21px;
+				height: 21px;
+				margin-left: 10px;
+				margin-top: 10px;
+				cursor: pointer;
+				float: left; }
+				
+	/*                                                                                                                                    */
+	/* ------------------------------------------------------- COLOUR CHANGER END ------------------------------------------------------- */
+	/*      

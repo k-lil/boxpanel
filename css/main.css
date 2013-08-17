@@ -1,4 +1,5 @@
 @import "translator.css";
+@import "color.css";
 @import "fonts.css";
 
 html, body						{ height:100% !important; min-height:100%; }
@@ -1249,8 +1250,8 @@ margin: 0px;
 div.jGrowl.bottom-right { right: 0px !important; bottom: 20px !important;}
 .welcome span .head { display:none; }
 .welcome span .left{ display:none; }
-.welcome span  .color{ text-align: center;}
-.welcome span .client-profile { background: none repeat scroll 0 0 transparent; border: medium none; display: block; float: right; height: 31px; margin: -27px -29px; position: static; }
+.welcome span  .color{ text-align: left;}
+.welcome span .client-profile { background: none repeat scroll 0 0 transparent; border: medium none; display: block; float: right; height: 31px; margin: -27px -5px; position: static; }
 
 
 
