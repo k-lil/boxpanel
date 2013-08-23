@@ -2,8 +2,8 @@
 @import "color.css";
 @import "fonts.css";
 
-html, body						{ height:100% !important; min-height:100%; }
-body, form						{ padding:0; margin:0; }
+html, body		{ height:100% !important; min-height:100%; }
+body, form		{ padding:0; margin:0; }
 body { 
 background: url("../img/bodyBg.jpg") repeat scroll 0 0 transparent; color: #D5D5D5; font-family: Arial,Helvetica,sans-serif; font-size: 12px; line-height: 20px;
 margin: 0; min-height: 100%; padding: 0; position: relative;}
@@ -20,11 +20,11 @@ table,
 td,
 input,
 textarea,
-select							{ font-family:arial; font-size:12px; color:#000; }
-a								{ color:#515E70; outline:none; text-decoration:none; font-weight: bold;}
-a:hover							{ color:#B55D5C; text-decoration:none; font-weight: bold;}
-a.hot							{ color:#EE7E2B !important; }
-a:hover.hot						{ color:#F3AB76 !important; }
+select			{ font-family:arial; font-size:12px; color:#000; }
+a{ color:#515E70; outline:none; text-decoration:none; font-weight: bold;}
+a:hover			{ color:#B55D5C; text-decoration:none; font-weight: bold;}
+a.hot			{ color:#EE7E2B !important; }
+a:hover.hot		{ color:#F3AB76 !important; }
 p, h1, h2, h3, h4, h5			{ margin:0; padding:0; font-weight:normal; }
 img { border: 0; }
 input[type="button"],button 	{ margin:10px;}
@@ -32,11 +32,11 @@ input[type="button"],button 	{ margin:10px;}
 .clear   {clear:both;}
 .tal{text-align: left !important;}
 .tar{text-align: right !important;}
-#start				{ width:100%; min-width:1003px; min-height:600px; height:100%; }
+#start{ width:100%; min-width:1003px; min-height:600px; height:100%; }
 #bef-main			{ width:100%; min-height:100%; }
-#main				{ width:950px; position:relative; margin:0 auto; }
+#main{ width:950px; position:relative; margin:0 auto; }
 
-#top				{ 
+#top{ 
 height: 70px;
 margin: 0 auto;
 padding-bottom: 10px;
@@ -97,8 +97,8 @@ width:120px;
 
 .chevronOverlay { display: none; background: url(../img/ChevronOverlay.png) no-repeat 100%; width: 13px; height: 20px; }
 
-#nav				{ list-style-type:none; padding:0; margin:0; }
-#nav li				{ padding:0; margin:0; }
+#nav{ list-style-type:none; padding:0; margin:0; }
+#nav li{ padding:0; margin:0; }
 #nav li a			{ font-size:12px; }
 #nav li a.s			{ font-weight:bold; }
 
@@ -164,7 +164,7 @@ border-style: none solid solid;
 border-width: medium 1px 1px;
 }
 
-#side-1				{ float:right; width:639px; padding-top:10px; }
+#side-1{ float:right; width:639px; padding-top:10px; }
 #mid-inner #side-1	{ width:250px; padding-left:0; }
 
 .list{ 
@@ -319,7 +319,7 @@ ul.nav-left li a.icon-5	{ background-image:url(../img/icons/icon-small-5.png); b
 ul.nav-left li a.icon-6	{ background-image:url(../img/icons/icon-small-6.png); background-position: 4% center; border-top: 1px solid #3B4144; border-bottom: 1px solid #3B4144;}
 ul.nav-left li a.icon-7	{ background-image:url(../img/icons/icon-small-7.png); background-position: 4% center; border-top: 1px solid #3B4144; border-bottom: 1px solid #3B4144;}
 
-#side-2				{ float:left; width:auto; padding:0; }
+#side-2{ float:left; width:auto; padding:0; }
 #mid-inner #side-2	{ width:71%; }
 .layout-profile #mid-inner #side-2	{ width:100%; }
 .body   { padding: 12px 14px; }
@@ -348,7 +348,7 @@ overflow: hidden;
 .client-profile td			{ padding:7px 0 5px 10px; font-size:12px; color:#FFFFFF; }
 .client-profile td.even	{ padding-right:15px; color:#747474; }
 
-.cont				{ width:auto; padding:0 ; overflow:auto;}
+.cont{ width:auto; padding:0 ; overflow:auto;}
 .cont h1			{ font-size:18px; color:#3B6086; margin:15px 0 20px 0; }
 .cont h1 span		{  padding-right:10px; }
 .cont h2 { 
@@ -402,7 +402,7 @@ height: 25px;
 .cont h3			{ color:#3B6086; font-size:12px; font-weight:bold; padding-left:10px; margin-bottom:10px; }
 .cont h4			{ font-size:13px; font-weight:bold; color:#3B6086; }
 .cont table			{ border-collapse:collapse; width:100%; }
-.cont a				{ color:#3E5D6D; text-decoration:none; }
+.cont a{ color:#3E5D6D; text-decoration:none; }
 .cont a:hover		{ color:#BB5D5C; text-decoration:none; }
 .cont input
 .mainForm input[type="text"], .mainForm textarea, .mainForm input[type="password"] {
@@ -439,7 +439,7 @@ font-weight: bold;
 line-height: 12px;
 }
 .cont p, .cont td, .cont li, .cont div	{ font-size:13px; }
-.cont p				{ padding: 10px 20px 0px 20px; margin-bottom:10px; line-height:20px; }
+.cont p{ padding: 10px 20px 0px 20px; margin-bottom:10px; line-height:20px; }
 .cont ul			{ padding:0 0 0 20px; margin:0 0 10px 0; list-style-type:none; }
 .cont li			{ padding:0 0 0 10px; line-height:20px; margin:0; background:url(../img/square.gif) 0 center no-repeat; }
 .cont input[type=text],
@@ -478,21 +478,21 @@ padding-bottom: 1%;
 width: auto;
 }
 
-table.type-1 td					{ padding:4px 10px 5px 10px; }
+table.type-1 td	{ padding:4px 10px 5px 10px; }
 table.type-1 tr.even td		{ background:none; }
 table.type-1 tr.bot td			{ text-align:right; padding-right: 0px;}
 
-table.type-2 td				{ padding:0 10px 0 10px; }
+table.type-2 td{ padding:0 10px 0 10px; }
 
 table.type-3,table.type-4   { background:none; }
-table.type-3 td				{ padding:3px 20px 3px 20px; background:none; vertical-align: top;}
+table.type-3 td{ padding:3px 20px 3px 20px; background:none; vertical-align: top;}
 table.type-3 tr.top td, table.type-3 tr:first-child td		{ padding-top:19px;}
 table.type-3 tr.bot td, table.type-3 tr:last-child td		{ text-align:right; padding-bottom:19px; }
 table.type-3 td input[type=text], table.type-3 td input[type=password], table.type-3 td textarea	{ width:180px; }
 table.type-3 td input[type=submit]	{ float:right; }
 table.type-3 td label.required:after	{ content: ' *'; color:red;}
 
-table.type-4 td				{ padding:3px 20px 3px 20px; background:none; }
+table.type-4 td{ padding:3px 20px 3px 20px; background:none; }
 table.type-4 tr.top td		{ padding-top:15px; }
 table.type-4 tr.bot td		{ text-align:right; padding-bottom:19px; }
 table.type-4 td input[type=text], table.type-4 td input[type=password],
@@ -500,33 +500,33 @@ table.type-4 td input.txt	{ width:100px; }
 table.type-4 td input.generate,
 table.type-4 td select		{ width:140px; }
 
-td.password					{ text-align:center; color:#636363; }
-td.password div				{ background:#fff url(../img/password.gif) 1px 1px no-repeat; border:1px solid #7F9DB9; height:7px; font-size:0; padding:1px; margin-bottom:5px; }
+td.password	{ text-align:center; color:#636363; }
+td.password div{ background:#fff url(../img/password.gif) 1px 1px no-repeat; border:1px solid #7F9DB9; height:7px; font-size:0; padding:1px; margin-bottom:5px; }
 
-table.type-5					{ width:100%; }
-table.type-5 td					{ padding:7px 20px 8px 20px; text-align:center;}
+table.type-5	{ width:100%; }
+table.type-5 td	{ padding:7px 20px 8px 20px; text-align:center;}
 table.type-5 td.right   	{ text-align:right;}
 table.type-5 tr.head td			{ color:#BB5D5C; text-align:center; padding:7px 5px 8px 5px; }
 table.type-5 tr.even td		{ background:url("../img/darkerBg.png") repeat scroll 0 0 transparent; }
 table.type-5 tr.bot td			{ text-align:right; }
 table.type-5 tr.bot td input	{ /*margin-right:-10px;*/ }
 
-.cont .per-page				{ padding-left:0; margin-bottom:20px; }
+.cont .per-page{ padding-left:0; margin-bottom:20px; }
 .cont .per-page select		{ vertical-align:middle; margin-right:20px; }
 
 .cont .host			{ border:1px solid #3B4144; position:relative; background:url(../img/host.gif) 22px 39px no-repeat; margin-top:2px; margin-bottom:15px; }
 .cont .host span	{ position:absolute; background:#fff; padding:0 5px; top:-6px; left:17px; }
 .cont .host div		{ padding:27px 0 27px 65px; }
 
-table.type-6					{ width:100%; }
-table.type-6 td					{ padding:4px 20px 5px 20px; line-height:20px; }
+table.type-6	{ width:100%; }
+table.type-6 td	{ padding:4px 20px 5px 20px; line-height:20px; }
 table.type-6 tr.top td			{ padding-top:15px; }
 table.type-6 tr.bot td			{ padding-bottom:14px; }
 table.type-6 tfoot td   { text-align: right; }
 table.type-6 tbody td textarea  { width: 100%; }
 
-table.type-7 td					{ padding:102px 30px 20px 30px; }
-table.type-7 input				{ width:123px; }
+table.type-7 td	{ padding:102px 30px 20px 30px; }
+table.type-7 input{ width:123px; }
 table.type-7 td.style-x1			{ background:url(../img/style-1.png) center top no-repeat; }
 table.type-7 td.style-x2			{ background:url(../img/style-2.png) center top no-repeat; }
 table.type-7 td.style-x3			{ background:url(../img/style-3.png) center top no-repeat; }
@@ -539,7 +539,7 @@ position: absolute;
 
 }
 
-#bef-cop					{ width:920px; margin:0 auto; padding:17px 20px 17px 20px; font-size:12px; color:#fff; }
+#bef-cop	{ width:920px; margin:0 auto; padding:17px 20px 17px 20px; font-size:12px; color:#fff; }
 
 #youhosting-paginator {
 	display:block;
