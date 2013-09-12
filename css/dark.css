@@ -27,7 +27,7 @@ a.hot			{ color:#EE7E2B !important; }
 a:hover.hot		{ color:#F3AB76 !important; }
 p, h1, h2, h3, h4, h5			{ margin:0; padding:0; font-weight:normal; }
 img { border: 0; }
-input[type="button"],button 	{ margin:10px;}
+input[type="button"],button { margin: 0 10px;}
 .hide   {display:none;}
 .clear   {clear:both;}
 .tal{text-align: left !important;}
