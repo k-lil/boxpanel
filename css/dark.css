@@ -527,6 +527,17 @@ table.type-6 tr.bot td			{ padding-bottom:0; }
 table.type-6 tfoot td   { text-align: right; }
 table.type-6 tbody td textarea  { width: 100%; }
 
+.themeselector { 
+background: -moz-linear-gradient(center top , #495D6B 0%, #36454F 100%) repeat scroll 0 0 transparent;
+border: 1px solid #292D2F;
+box-shadow: 0 1px 0 rgba(255, 255, 255, 0.2) inset;
+color: #FFFFFF;
+cursor: pointer;
+font-family: Arial,Helvetica,sans-serif;
+font-size: 11px;
+font-weight: bold;
+height: 25px;
+}
 table.type-7 td	{ padding:102px 30px 20px 30px; }
 table.type-7 input{ width:123px; }
 table.type-7 td.style-x1			{ background:url(../img/style/1.png) center top no-repeat; }
