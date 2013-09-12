@@ -57,16 +57,7 @@ line-height: 28px;
 width:120px; 
 }
 
-#top-menu			{ border-collapse:collapse; width:950px; background:url(../img/top-menu.gif) repeat-x; margin:0 auto; }
-#top-menu td		{ padding:0; text-align:center; height:35px; }
-#top-menu td:hover, #top-menu td.s	{ background:url(../img/top-menu-s.png) no-repeat; }
-#top-menu td:hover a	{ background:url(../img/top-menu-s-2.gif) 100% 0 no-repeat; }
-.layout-public #top-menu td:hover { background: none; }
-#top-menu td.sep	{ padding:0; width:0; height:35px; font-size:0; background:none; }
-#top-menu a			{ color:#fff; font-weight:bold; display:block; width:100%; padding:9px 0 10px 0; text-decoration:none; font-size:14px; }
-#top-menu a.s		{ background:url(../img/top-menu-s-2.gif) 100% 0 no-repeat; color:#fff; }
-#top-menu td.ls		{ width:0; padding-left:2px; background:url(../img/top-menu-ls.gif) no-repeat; }
-#top-menu td.rs		{ width:0; padding-left:2px; background:url(../img/top-menu-rs.gif) no-repeat; }
+#top-menu{display: none !important;}
 
 /* ===== Breadcrumbs ===== */
 
@@ -538,7 +529,7 @@ font-size: 11px;
 font-weight: bold;
 height: 25px;
 }
-table.type-7 td	{ padding:102px 30px 20px 30px; }
+table.type-7 td	{ padding:100px 95px 1px 30px; }
 table.type-7 input{ width:123px; }
 table.type-7 td.style-x1			{ background:url(../img/style/1.png) center top no-repeat; }
 table.type-7 td.style-x2			{ background:url(../img/style/2.png) center top no-repeat; }
