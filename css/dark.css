@@ -729,15 +729,15 @@ font-size: 0;
 display: inline-block;
 line-height: 0;
 }
-.pg-PayPalEmail { background-image: url(../img/PayPalEmail.png); }
-.pg-Payza { background-image: url(../img/Payza.png); }
-.pg-TwoCheckout { background-image: url(../img/TwoCheckout.png); }
-.pg-WebMoney { background-image: url(../img/WebMoney.png); }
-.pg-Custom { background-image: url(../img/Custom.png); }
-.pg-Interkassa { background-image: url(../img/Interkassa.png); }
-.pg-Skrill { background-image: url(../img/Skrill.png); }
-.pg-LibertyReserve { background-image: url(../img/LibertyReserve.png); }
-.pg-DineroMail { background-image: url(../img/DineroMail.png); }
+.pg-PayPalEmail { background-image: url(../img/gateways/PayPalEmail.png); }
+.pg-Payza { background-image: url(../img/gateways/Payza.png); }
+.pg-TwoCheckout { background-image: url(../img/gateways/TwoCheckout.png); }
+.pg-WebMoney { background-image: url(../img/gateways/WebMoney.png); }
+.pg-Custom { background-image: url(../img/gateways/Custom.png); }
+.pg-Interkassa { background-image: url(../img/gateways/Interkassa.png); }
+.pg-Skrill { background-image: url(../img/gateways/Skrill.png); }
+.pg-LibertyReserve { background-image: url(../img/gateways/LibertyReserve.png); }
+.pg-DineroMail { background-image: url(../img/gateways/DineroMail.png); }
 
 /* Progress bar actions */
 div.res-link {
