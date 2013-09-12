@@ -102,7 +102,7 @@ width:120px;
 #nav li a			{ font-size:12px; }
 #nav li a.s			{ font-weight:bold; }
 
-#mid, #mid-inner	{ width:950px; overflow:auto; background: none repeat scroll 0 0 transparent; }
+#mid, #mid-inner	{ width:950px; overflow:auto; background: none repeat scroll 0 0 transparent; margin-bottom: 20px;}
 #mid-inner			{ background:none; }
 .layout-profile #mid-inner			{ background:none; }
 .layout-public #mid-inner			{ background:#fff; }
