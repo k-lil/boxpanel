@@ -31,7 +31,7 @@ input[type="button"],button { margin: 0 10px;}
 .generate {background: -moz-linear-gradient(center top , #495D6B 0%, #36454F 100%) repeat scroll 0 0 transparent;border: 1px solid #292D2F;box-shadow: 0 1px 0 rgba(255, 255, 255, 0.2) inset;color: #FFFFFF;cursor: pointer;float: right;font-family: Arial,Helvetica,sans-serif;font-size: 11px;font-weight: bold;height: 25px;}
 .hide   {display:none;}
 .clear   {clear:both;}
-.tal{text-align: left !important;}
+.tal{text-align: left !important;color: #FFFFFF !important;}
 .tar{text-align: right !important;}
 #start{ width:100%; min-width:1003px; min-height:600px; height:100%; }
 #bef-main			{ width:100%; min-height:100%; }
