@@ -441,7 +441,7 @@ height: 25px;
 }
 .type-6 div { color: #FFFFFF; }
 .cont p, .cont td, .cont li, .cont div	{ font-size:13px; }
-.cont p{ padding: 10px 20px 0px 20px; margin-bottom:10px; line-height:20px; }
+.cont p{ padding: 10px 20px 0px 20px; margin-bottom:10px; line-height:20px; color: #FFFFFF;}
 .cont ul			{ padding:0 0 0 20px; margin:0 0 10px 0; list-style-type:none; }
 .cont li			{ padding:0 0 0 10px; line-height:20px; margin:0; background:url(../img/square.gif) 0 center no-repeat; }
 .cont input[type=text],
@@ -529,10 +529,10 @@ table.type-6 tbody td textarea  { width: 100%; }
 
 table.type-7 td	{ padding:102px 30px 20px 30px; }
 table.type-7 input{ width:123px; }
-table.type-7 td.style-x1			{ background:url(../img/style-1.png) center top no-repeat; }
-table.type-7 td.style-x2			{ background:url(../img/style-2.png) center top no-repeat; }
-table.type-7 td.style-x3			{ background:url(../img/style-3.png) center top no-repeat; }
-table.type-7 td.style-xx			{ background:url(../img/style-3.png) center top no-repeat; }
+table.type-7 td.style-x1			{ background:url(../img/style/1.png) center top no-repeat; }
+table.type-7 td.style-x2			{ background:url(../img/style/2.png) center top no-repeat; }
+table.type-7 td.style-x3			{ background:url(../img/style/3.png) center top no-repeat; }
+table.type-7 td.style-xx			{ background:url(../img/style/3.png) center top no-repeat; }
 
 #foot { 
 width:100%; 
