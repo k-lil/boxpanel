@@ -439,6 +439,7 @@ font-weight: bold;
 line-height: 12px;
 height: 25px;
 }
+.type-6 div { color: #FFFFFF; }
 .cont p, .cont td, .cont li, .cont div	{ font-size:13px; }
 .cont p{ padding: 10px 20px 0px 20px; margin-bottom:10px; line-height:20px; }
 .cont ul			{ padding:0 0 0 20px; margin:0 0 10px 0; list-style-type:none; }
@@ -522,7 +523,7 @@ table.type-5 tr.bot td input	{ /*margin-right:-10px;*/ }
 table.type-6	{ width:100%; }
 table.type-6 td	{ padding:4px 20px 5px 20px; line-height:20px; }
 table.type-6 tr.top td			{ padding-top:15px; }
-table.type-6 tr.bot td			{ padding-bottom:14px; }
+table.type-6 tr.bot td			{ padding-bottom:0; }
 table.type-6 tfoot td   { text-align: right; }
 table.type-6 tbody td textarea  { width: 100%; }
 
