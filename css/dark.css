@@ -1236,7 +1236,7 @@ margin: 0px;
 .userNav ul li ul li a:hover { background-color: none; font-weight: normal; color: #a4a4a4; }
 .userNav ul li ul li:hover { background: #1d1d1d!important; }
 .fix {clear: both;}
-#footer {background: url("../img/topNav.jpg") repeat scroll 0 0 transparent;bottom: 0;clear: both;color: #EEEEEE;margin-top: 42px;width: 100%;}
+#footer {background: url("../img/topNav.jpg") repeat scroll 0 0 transparent;bottom: 0;clear: both;color: #EEEEEE;margin-top: 42px;width: 100%;position: fixed;}
 #footer span {color: #696969;display: block;font-size: 11px;padding: 9px 5px;}
 #footer span a {color: #EEEEEE;}
 .wrapper {margin: auto;width: 940px;}
