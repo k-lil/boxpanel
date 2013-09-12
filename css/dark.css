@@ -482,7 +482,7 @@ table.type-3 td{ padding:3px 20px 3px 20px; background:none; vertical-align: top
 table.type-3 tr.top td, table.type-3 tr:first-child td		{ padding-top:19px;}
 table.type-3 tr.bot td, table.type-3 tr:last-child td		{ text-align:right; padding-bottom:19px; }
 table.type-3 td input[type=text], table.type-3 td input[type=password], table.type-3 td textarea	{ width:180px; }
-table.type-3 td input[type=submit]	{ float:right; }
+table.type-3 td input[type=submit]	{ float:right; background: -moz-linear-gradient(center top , #495D6B 0%, #36454F 100%) repeat scroll 0 0 transparent;border: 1px solid #292D2F;box-shadow: 0 1px 0 rgba(255, 255, 255, 0.2) inset;color: #FFFFFF;cursor: pointer;font-family: Arial,Helvetica,sans-serif;font-size: 11px;font-weight: bold;height: 25px;}
 table.type-3 td label.required:after	{ content: ' *'; color:red;}
 
 table.type-4 td{ padding:3px 20px 3px 20px; background:none; }
@@ -500,9 +500,10 @@ table.type-5	{ width:100%; }
 table.type-5 td	{ padding:7px 20px 8px 20px; text-align:center;}
 table.type-5 td.right   	{ text-align:right;}
 table.type-5 tr.head td			{ color:#BB5D5C; text-align:center; padding:7px 5px 8px 5px; }
-table.type-5 tr.even td		{ background:url("../img/darkerBg.png") repeat scroll 0 0 transparent; }
+table.type-5 tr.even td		{ background:url("../img/darkerBg.png") repeat scroll 0 0 transparent; text-align: center;}
 table.type-5 tr.bot td			{ text-align:right; }
 table.type-5 tr.bot td input	{ /*margin-right:-10px;*/ }
+
 
 .cont .per-page{ padding-left:0; margin-bottom:20px; }
 .cont .per-page select		{ vertical-align:middle; margin-right:20px; }
